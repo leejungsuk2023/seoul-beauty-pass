@@ -1,0 +1,430 @@
+// Japanese - simplified version with core translations
+
+export const ja = {
+  nav: {
+    shop: 'ショップ',
+    freeOffer: '無料特典',
+    howItWorks: '仕組み',
+    myBooking: 'マイ予約',
+  },
+  home: {
+    hero: {
+      landingTitle: '韓国での美容整形旅行を安全に。',
+      landingSubtitle: '空港送迎、24時間通訳、最大$15,000の再手術保証。',
+      badge1: 'KB保険パートナー',
+      badge2: '医療委員会認証',
+      airportService: '空港サービス',
+      airportServiceDesc: '空港からのプライベート送迎',
+      support247: '24時間サポート',
+      support247Desc: '24時間体制のサポート',
+      resurgery: '再手術保証',
+      resurgeryDesc: '安心のための最大$15,000保証',
+      title: 'クリニックはもう予約済みですか?',
+      subtitle: 'あなたの旅を選択',
+      yesCard: {
+        title: 'はい、すでに予約しました',
+        description: 'Essential、Safety、VIPパスで旅行を保護',
+        button: 'パスを購入',
+        badge: '有料商品',
+      },
+      noCard: {
+        title: 'いいえ、BBGで予約したい',
+        description: 'BBGパートナークリニック予約で無料特典',
+        button: '無料特典を受け取る',
+        badge: '無料',
+      },
+    },
+    whyBBG: {
+      title: 'BBG Medical Passを選ぶ理由',
+      subtitle: '韓国美容整形旅行の信頼できるパートナー',
+      safety: {
+        title: '検証済みの安全性',
+        description: 'KB保険提携と24時間緊急サポート',
+      },
+      convenience: {
+        title: '完全な利便性',
+        description: '空港送迎からクリニック同行まで全て対応',
+      },
+      value: {
+        title: 'プレミアム価値',
+        description: '限定バウチャーと無料医療相談',
+      },
+    },
+    howItWorks: {
+      title: '仕組み',
+      step1: {
+        title: 'パスを選択',
+        description: 'ニーズに合った保護レベルを選択',
+      },
+      step2: {
+        title: 'デジタルバウチャー受取',
+        description: '即座に確認とQRコード配信',
+      },
+      step3: {
+        title: '安全に旅行',
+        description: '韓国で全ステップをサポート',
+      },
+    },
+    cta: {
+      title: '旅行を保護する準備はできましたか?',
+      subtitle: '何千人もの患者がBBG Medical Passを信頼',
+      button: '始める',
+    },
+    instagram: {
+      title: '実際の患者の旅',
+      subtitle: 'Instagramで成功事例と変化を見る',
+      button: 'Instagramでフォロー',
+    },
+  },
+  shop: {
+    hero: {
+      title: 'Medical Passを選択',
+      subtitle: '旅行に適した保護レベルを選択',
+    },
+    popular: '人気',
+    tier: {
+      essential: {
+        name: 'Essential',
+        price: '$199',
+        description: '基本的な保護とサポート',
+        features: [
+          '空港送迎（片道）',
+          '$199クリニックバウチャー',
+          '24時間電話サポート',
+          '基本旅行ガイド',
+          'デジタルMedical Pass',
+        ],
+      },
+      safety: {
+        name: 'Safety',
+        price: '$499',
+        description: '保険付き完全保護',
+        features: [
+          '往復空港送迎',
+          '$499クリニックバウチャー',
+          'KB保険（$15,000補償）',
+          '優先医療サポート',
+          'クリニックエスコート',
+          '回復ケアパッケージ',
+          'デジタルMedical Pass',
+        ],
+        badge: '最も人気',
+      },
+      vip: {
+        name: 'VIP',
+        price: '$1,390',
+        description: '高級オールインクルーシブ体験',
+        features: [
+          'プレミアム車両送迎（往復）',
+          '$1,390クリニックバウチャー',
+          'VIP保険（$50,000補償）',
+          '専任ケアマネージャー',
+          '5つ星ホテル割引',
+          'プロ通訳サービス',
+          '優先緊急医療',
+          '高級回復キット',
+          'ブラックティアMedical Pass',
+        ],
+        badge: '最高級',
+      },
+    },
+    button: '購入',
+    guarantee: {
+      title: '30日間返金保証',
+      moneyBack: '返金保証',
+      secure: '安全な支払い',
+      support: '24時間サポート',
+    },
+  },
+  freeOffer: {
+    hero: {
+      badge: '無料特典',
+      title: 'BBGパートナークリニック予約で無料特典',
+      subtitle: '追加費用なしでプレミアムサービス',
+    },
+    benefits: {
+      title: '無料で受け取れるもの',
+      pickup: {
+        title: '無料空港送迎',
+        description: '仁川空港からホテルまで快適な移動',
+      },
+      consultation: {
+        title: '無料医療相談',
+        description: '経験豊富な医療コーディネーターと連携',
+      },
+      support: {
+        title: '24時間電話サポート',
+        description: '緊急時の多言語サポート',
+      },
+      guide: {
+        title: 'デジタル旅行ガイド',
+        description: 'ソウル美容整形旅行完全ガイド',
+      },
+    },
+    form: {
+      title: '無料相談を申し込む',
+      subtitle: 'フォームに記入すると24時間以内に連絡',
+      name: '氏名',
+      namePlaceholder: 'お名前を入力',
+      email: 'メール',
+      emailPlaceholder: 'メールアドレスを入力',
+      phone: '電話番号',
+      phonePlaceholder: '電話番号を入力',
+      procedure: '興味のある施術',
+      procedurePlaceholder: '施術を選択',
+      procedures: {
+        rhinoplasty: '鼻整形',
+        doubleeyelid: '二重まぶた手術',
+        facelift: 'フェイスリフト',
+        liposuction: '脂肪吸引',
+        breastAugmentation: '豊胸',
+        other: 'その他',
+      },
+      date: '希望手術日',
+      datePlaceholder: '日付を選択',
+      message: '追加情報',
+      messagePlaceholder: '質問や特別なリクエスト',
+      consent: 'BBG Medical Passが私の情報を処理することに同意します',
+      button: '無料相談を申し込む',
+      success: '申し込み完了！',
+      successMessage: 'すぐにご連絡します。',
+    },
+    partners: {
+      title: 'パートナークリニック',
+      subtitle: '韓国トップクリニックと提携',
+    },
+    howItWorks: {
+      title: '仕組み',
+      step1: {
+        title: 'フォーム記入',
+        description: '興味と好みを共有',
+      },
+      step2: {
+        title: '専門家マッチング',
+        description: '24時間以内にパーソナライズされたクリニック推薦',
+      },
+      step3: {
+        title: '予約確認',
+        description: 'クリニック予約後すぐに無料特典有効化',
+      },
+    },
+  },
+  howItWorks: {
+    hero: {
+      title: 'BBG Medical Passの仕組み',
+      subtitle: '最初から最後まで一緒に',
+    },
+    journey: {
+      title: '旅行タイムライン',
+      beforeDeparture: {
+        title: '出発前',
+        step1: {
+          title: 'パス購入または無料特典申し込み',
+          description: 'オプションを選択し即座に確認',
+        },
+        step2: {
+          title: 'デジタルMedical Pass受取',
+          description: 'バウチャー、QRコード、旅行ガイド付きメール',
+        },
+        step3: {
+          title: '旅行計画',
+          description: 'ケアマネージャーが送迎、宿泊などを調整',
+        },
+      },
+      arrival: {
+        title: '到着日',
+        step1: {
+          title: '空港送迎',
+          description: '仁川空港で専用ドライバーと会う',
+        },
+        step2: {
+          title: 'ホテルチェックイン',
+          description: 'ホテルまで安全に移動（VIPは5つ星割引）',
+        },
+        step3: {
+          title: 'ウェルカムパッケージ',
+          description: 'SIMカード、ガイド、緊急連絡先を受け取る',
+        },
+      },
+      surgeryDay: {
+        title: '手術日',
+        step1: {
+          title: 'クリニック送迎',
+          description: 'ホテルからクリニックへ時間通りに移動',
+        },
+        step2: {
+          title: 'バウチャー使用',
+          description: 'クリニックでQRコードを提示して割引',
+        },
+        step3: {
+          title: '手術中サポート',
+          description: '通訳とケアマネージャーが待機',
+        },
+      },
+      recovery: {
+        title: '回復期間',
+        step1: {
+          title: '毎日チェックイン',
+          description: '医療チームが回復を監視',
+        },
+        step2: {
+          title: '回復キット',
+          description: 'Safety/VIPパスには回復用品含む',
+        },
+        step3: {
+          title: '24時間サポート',
+          description: '緊急時はいつでも連絡可能',
+        },
+      },
+      departure: {
+        title: '出発日',
+        step1: {
+          title: '最終クリニック訪問',
+          description: '出発前検診予約をサポート',
+        },
+        step2: {
+          title: '空港へ戻る',
+          description: 'Safety/VIPは空港への復路サービス',
+        },
+        step3: {
+          title: 'アフターケア',
+          description: '帰国後のリモート相談サポート',
+        },
+      },
+    },
+    emergency: {
+      title: '緊急プロトコル',
+      subtitle: 'あなたの安全が最優先',
+      hotline: {
+        title: '24時間緊急ホットライン',
+        description: 'いつでも医療専門家と即座に接続',
+      },
+      insurance: {
+        title: '保険有効化',
+        description: 'Safety/VIP：KB保険が即座に請求処理',
+      },
+      hospital: {
+        title: '病院ネットワーク',
+        description: 'ソウルの主要病院と提携',
+      },
+    },
+    cta: {
+      title: 'Medical Passで旅行保護を開始',
+      button: 'パスを選択',
+    },
+  },
+  manageBooking: {
+    title: '旅行を見つける',
+    subtitle: 'BBG Medical Pass詳細にアクセス',
+    email: 'メールアドレス',
+    emailPlaceholder: '予約メールを入力',
+    bookingRef: '予約番号/注文ID',
+    bookingRefPlaceholder: '例：BBG-2026-XXXX',
+    button: 'Medical Passを見る',
+    help: '参照番号を忘れましたか？',
+    support: '24時間サポートに連絡',
+    supportSubtext: '多言語チームが24時間対応',
+    secure: '安全な接続 • データは保護されています',
+  },
+  dashboard: {
+    welcome: 'ようこそ',
+    bookingRef: '予約番号',
+    status: {
+      confirmed: '確認済み',
+      pending: '確認待ち',
+    },
+    pass: {
+      title: 'あなたのMedical Pass',
+      tier: 'ティア',
+      voucherValue: 'バウチャー価値',
+      clinic: 'クリニック',
+      surgeryDate: '手術日',
+      downloadButton: 'PDFバウチャーダウンロード',
+    },
+    services: {
+      title: 'あなたのサービス',
+      pickup: {
+        title: '空港送迎',
+        driverAssigned: 'ドライバー割り当て済み',
+        scheduleNow: '今すぐ予約',
+        driverDetails: 'ドライバー詳細',
+      },
+      insurance: {
+        title: '安全保護',
+        active: '有効',
+        coverage: '補償額',
+        viewCertificate: '証明書を見る',
+      },
+      hotline: {
+        title: '24時間サポート',
+        availableNow: '今すぐ利用可能',
+        description: '多言語医療チームがいつでもサポート',
+        chatButton: '医師とチャット',
+        callButton: 'ホットラインに電話',
+      },
+    },
+    upsell: {
+      title: '安全性をアップグレード',
+      description: '現在<strong>Essentialプラン</strong>をご利用中です。復路送迎と強化保険を追加しますか？',
+      features: {
+        roundtrip: '往復空港送迎',
+        insurance: '最大$15,000の保険補償',
+        priority: '優先医療サポート',
+      },
+      price: 'わずか',
+      oneTime: '一回払い',
+      button: 'Safety Passにアップグレード',
+    },
+    footer: {
+      help: '予約についてサポートが必要ですか？',
+      contact: 'サポートに連絡',
+    },
+  },
+  footer: {
+    tagline: '韓国医療旅行の信頼できるパートナー',
+    about: {
+      title: '会社情報',
+      aboutUs: '会社概要',
+      howItWorks: '仕組み',
+      partners: 'パートナークリニック',
+      blog: 'ブログ',
+    },
+    services: {
+      title: 'サービス',
+      essentialPass: 'Essential Pass',
+      safetyPass: 'Safety Pass',
+      vipPass: 'VIP Pass',
+      freeOffer: '無料特典',
+    },
+    support: {
+      title: 'サポート',
+      helpCenter: 'ヘルプセンター',
+      contact: 'お問い合わせ',
+      faq: 'よくある質問',
+      insurance: '保険情報',
+    },
+    legal: {
+      title: '法的情報',
+      privacy: 'プライバシーポリシー',
+      terms: '利用規約',
+      medical: '医療免責事項',
+    },
+    rights: '全著作権所有。',
+    medical: 'BBG Medical Passは医療提供者ではなく、旅行支援サービスを提供します。',
+  },
+  common: {
+    learnMore: '詳しく見る',
+    getStarted: '始める',
+    contactUs: 'お問い合わせ',
+    readMore: '続きを読む',
+    close: '閉じる',
+    submit: '送信',
+    cancel: 'キャンセル',
+    save: '保存',
+    edit: '編集',
+    delete: '削除',
+    loading: '読み込み中...',
+    error: 'エラーが発生しました',
+    success: '成功！',
+  },
+};
