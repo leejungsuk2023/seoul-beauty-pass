@@ -20,8 +20,9 @@ export function Layout() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
-            <Link to="/" className="flex items-center gap-2">
-              <img src="/logo.svg" alt="Seoul Beauty Pass" className="h-10 w-auto" />
+            <Link to="/" className="flex items-center gap-1.5">
+              <span className="text-xl sm:text-2xl font-bold tracking-tight text-[#0A2540]">Seoul Beauty</span>
+              <span className="text-xl sm:text-2xl font-extrabold tracking-tight text-[#D4AF37]">PASS</span>
             </Link>
 
             {/* Desktop Navigation Links */}
@@ -137,8 +138,9 @@ export function Layout() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="col-span-1">
-              <div className="flex items-center gap-2 mb-4">
-                <img src="/logo.svg" alt="Seoul Beauty Pass" className="h-8 w-auto" />
+              <div className="flex items-center gap-1.5 mb-4">
+                <span className="text-lg font-bold tracking-tight text-[#0A2540]">Seoul Beauty</span>
+                <span className="text-lg font-extrabold tracking-tight text-[#D4AF37]">PASS</span>
               </div>
               <p className="text-sm text-gray-600 mb-6">
                 {t.footer.tagline}
