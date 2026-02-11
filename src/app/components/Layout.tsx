@@ -1,5 +1,5 @@
 import { Link, useLocation, Outlet } from 'react-router';
-import { Heart, Instagram, Facebook, Globe, ChevronDown } from 'lucide-react';
+import { Instagram, Facebook, Globe, ChevronDown } from 'lucide-react';
 import { ConsultationFloatingButton } from './ConsultationFloatingButton';
 import { useLanguage, LANGUAGES } from '../contexts/LanguageContext';
 import { useState } from 'react';
@@ -21,10 +21,7 @@ export function Layout() {
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-[#0056D2] rounded-lg flex items-center justify-center">
-                <Heart className="w-6 h-6 text-white fill-white" />
-              </div>
-              <span className="text-xl font-semibold text-gray-900">Seoul Beauty Pass</span>
+              <img src="/logo.svg" alt="Seoul Beauty Pass" className="h-10 w-auto" />
             </Link>
 
             {/* Desktop Navigation Links */}
@@ -141,10 +138,7 @@ export function Layout() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="col-span-1">
               <div className="flex items-center gap-2 mb-4">
-                <div className="w-8 h-8 bg-[#0056D2] rounded-lg flex items-center justify-center">
-                  <Heart className="w-5 h-5 text-white fill-white" />
-                </div>
-                <span className="font-semibold text-gray-900">Seoul Beauty Pass</span>
+                <img src="/logo.svg" alt="Seoul Beauty Pass" className="h-8 w-auto" />
               </div>
               <p className="text-sm text-gray-600 mb-6">
                 {t.footer.tagline}
