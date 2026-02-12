@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router";
-import { Layout } from "./components/Layout";
+import { Root } from "./Root";
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
 import FreeOffer from "./pages/FreeOffer";
@@ -11,7 +11,7 @@ import AdminDashboard from "./pages/AdminDashboard";
 export const router = createBrowserRouter([
   {
     path: "/",
-    Component: Layout,
+    Component: Root,
     children: [
       { index: true, Component: Home },
       { path: "shop", Component: Shop },

@@ -73,14 +73,14 @@ export default function Home() {
               <p className="text-xl mb-8 text-blue-100">
                 {t.home.hero.landingSubtitle}
               </p>
-              <div className="flex flex-wrap gap-4">
-                <div className="flex items-center gap-2">
-                  <CheckCircle className="w-5 h-5" />
-                  <span>{t.home.hero.badge1}</span>
+              <div className="flex flex-wrap gap-4 items-stretch">
+                <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2.5 border border-white/20 h-12">
+                  <img src="/kb-insurance-logo.png" alt="KB Insurance" className="h-7 w-auto object-contain" />
+                  <span className="font-medium">{t.home.hero.badge1}</span>
                 </div>
-                <div className="flex items-center gap-2">
-                  <CheckCircle className="w-5 h-5" />
-                  <span>{t.home.hero.badge2}</span>
+                <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2.5 border border-white/20 h-12">
+                  <CheckCircle className="w-7 h-7 flex-shrink-0" />
+                  <span className="font-medium">{t.home.hero.badge2}</span>
                 </div>
               </div>
             </div>

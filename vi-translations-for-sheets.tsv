@@ -1,0 +1,353 @@
+키	한국어	베트남어	번역(감수)
+nav.shop	Shop	Cửa hàng	
+nav.freeOffer	Free Offer	Ưu đãi miễn phí	
+nav.howItWorks	How it Works	Cách hoạt động	
+nav.myBooking	My Booking	Đặt chỗ của tôi	
+home.hero.landingTitle	한국 성형수술 여행을 안전하게.	Bảo vệ chuyến phẫu thuật thẩm mỹ tại Hàn Quốc.	
+home.hero.landingSubtitle	공항 픽업, 24/7 통역, 최대 $15,000 재수술 보장.	Đón sân bay, Phiên dịch 24/7, và Bảo hiểm tái phẫu thuật lên đến $15,000.	
+home.hero.badge1	KB 보험 파트너	Đối tác Bảo hiểm KB	
+home.hero.badge2	의료 위원회 인증	Được Ủy ban Y tế Xác nhận	
+home.hero.airportService	공항 서비스	Dịch vụ sân bay	
+home.hero.airportServiceDesc	공항에서 프라이빗 픽업	Đón riêng từ sân bay	
+home.hero.support247	24/7 서포트	Hỗ trợ 24/7	
+home.hero.support247Desc	24시간 지원 서비스	Hỗ trợ suốt ngày đêm	
+home.hero.resurgery	재수술 보장	Bảo hiểm tái phẫu thuật	
+home.hero.resurgeryDesc	안심을 위한 최대 $15,000 보장	Bảo hiểm lên đến $15,000 cho sự an tâm	
+home.hero.title	이미 병원을 예약하셨나요?	Đã đặt phòng khám chưa?	
+home.hero.subtitle	여정 선택	Chọn hành trình của bạn	
+home.hero.yesCard.title	네, 병원을 이미 예약했어요	Có, tôi đã đặt phòng khám	
+home.hero.yesCard.description	Essential, Safety 또는 VIP 패스를 구매하여 여행을 보호하세요	Mua Essential, Safety hoặc VIP Pass để bảo vệ chuyến đi	
+home.hero.yesCard.button	Pass 구매하기	Mua thẻ	
+home.hero.yesCard.badge	유료 상품	Sản phẩm trả phí	
+home.hero.noCard.title	아니요, BBG를 통해 예약하고 싶어요	Không, tôi muốn đặt qua BBG	
+home.hero.noCard.description	BBG 파트너 병원 예약 시 무료 혜택을 받으세요	Nhận ưu đãi miễn phí khi đặt phòng khám đối tác BBG	
+home.hero.noCard.button	무료 혜택 받기	Nhận ưu đãi miễn phí	
+home.hero.noCard.badge	무료	Miễn phí	
+home.whyBBG.title	Seoul Beauty Pass를 선택해야 하는 이유	Tại sao chọn BBG Medical Pass	
+home.whyBBG.subtitle	한국 성형수술 여행을 위한 신뢰할 수 있는 파트너	Đối tác đáng tin cậy cho du lịch phẫu thuật thẩm mỹ tại Hàn Quốc	
+home.whyBBG.safety.title	검증된 안전	An toàn được xác minh	
+home.whyBBG.safety.description	KB 보험 파트너십과 24/7 응급 지원	Đối tác bảo hiểm KB và hỗ trợ khẩn cấp 24/7	
+home.whyBBG.convenience.title	완벽한 편의	Tiện lợi hoàn toàn	
+home.whyBBG.convenience.description	공항 픽업부터 병원 동행까지 모든 것 처리	Từ đón sân bay đến hộ tống phòng khám, chúng tôi xử lý mọi thứ	
+home.whyBBG.value.title	프리미엄 가치	Giá trị cao cấp	
+home.whyBBG.value.description	독점 바우처와 무료 의료 상담	Phiếu giảm giá độc quyền và tư vấn y tế miễn phí	
+home.howItWorks.title	어떻게 작동하나요	Cách hoạt động	
+home.howItWorks.step1.title	패스 선택	Chọn thẻ của bạn	
+home.howItWorks.step1.description	필요에 맞는 보호 수준을 선택하세요	Chọn mức độ bảo vệ phù hợp với nhu cầu	
+home.howItWorks.step2.title	디지털 바우처 받기	Nhận voucher kỹ thuật số	
+home.howItWorks.step2.description	즉시 확인 및 QR 코드 받기	Xác nhận ngay lập tức và mã QR	
+home.howItWorks.step3.title	안전하게 여행	Du lịch an toàn	
+home.howItWorks.step3.description	한국에서 모든 단계를 지원받으세요	Hỗ trợ đầy đủ ở mọi bước tại Hàn Quốc	
+home.cta.title	여행 보호 준비되셨나요?	Sẵn sàng bảo vệ chuyến đi?	
+home.cta.subtitle	수천 명의 환자들이 Seoul Beauty Pass를 신뢰합니다	Hàng nghìn bệnh nhân tin tưởng BBG Medical Pass	
+home.cta.button	시작하기	Bắt đầu	
+home.gate.description	상황에 맞는 경로를 선택하세요.	Nhu cầu khác nhau, giải pháp khác nhau. Chọn điều phù hợp với bạn.	
+home.gate.saveBadge	$199 절약	TIẾT KIỆM $199	
+home.gate.noBookingTitle	아직 병원을 예약하지 않으셨나요?	Chưa đặt phòng khám?	
+home.gate.noBookingPrefix	BBG를 통해 예약하면 	Đặt qua BBG và nhận 	
+home.gate.noBookingHighlight	Essential Pass($199)를 무료로	Essential Pass ($199) MIỄN PHÍ	
+home.gate.noBookingSuffix	 받을 수 있어요.	.	
+home.gate.noBookingBullets.0	직접 예약과 동일한 수술 비용	Giá phẫu thuật như đặt trực tiếp	
+home.gate.noBookingBullets.1	무료 공항 픽업 & SIM 카드	Đón sân bay & SIM miễn phí	
+home.gate.noBookingBullets.2	24/7 통역 핫라인 포함	Hotline phiên dịch 24/7	
+home.gate.bookedTitle	이미 병원을 예약하셨나요?	Đã đặt phòng khám?	
+home.gate.bookedDescription	여행에 안전망을 더하세요. 컨시어지 패스를 구매하세요.	Thêm lớp bảo vệ cho chuyến đi. Mua concierge pass.	
+home.gate.bookedBullets.0	서울의 모든 클리닉에서 사용 가능	Dùng được tại mọi phòng khám ở Seoul	
+home.gate.bookedBullets.1	최대 $15,000 보험 보장	Bảo hiểm lên đến $15,000	
+home.gate.bookedBullets.2	프리미엄 컨시어지 서비스	Dịch vụ concierge cao cấp	
+home.trust.title	전 세계 수천 명의 환자가 신뢰합니다	Được hàng nghìn bệnh nhân quốc tế tin tưởng	
+home.trust.subtitle	서울 파트너 병원 및 클리닉	Bệnh viện & Phòng khám đối tác tại Seoul, Hàn Quốc	
+home.trust.viewAllPartners	파트너 {count}곳 모두 보기	Xem tất cả {count} đối tác	
+home.trust.showLess	접기	Thu gọn	
+home.trust.card1Title	KB 보험 공식 파트너	Đối tác chính thức KB Insurance	
+home.trust.card1Desc	KB 손해보험 파트너십을 통한 의료 시술 보호 혜택	Bảo hiểm có giấy phép cho thủ thuật y tế	
+home.trust.card2Title	의료 위원회 검증 완료	Được Ủy ban Y tế xác minh	
+home.trust.card2Desc	모든 파트너 클리닉은 엄격한 품질 기준을 충족합니다	Tất cả phòng khám đối tác đáp ứng tiêu chuẩn chất lượng nghiêm ngặt	
+home.trust.card3Title	24/7 지원 가능	Hỗ trợ 24/7	
+home.trust.card3Desc	다국어 팀이 언제든 지원합니다	Đội ngũ đa ngôn ngữ sẵn sàng hỗ trợ mọi lúc	
+home.instagram.title	실제 환자 여정	Hành trình bệnh nhân thực tế	
+home.instagram.subtitle	Instagram에서 성공 사례와 변화를 확인하세요	Xem câu chuyện thành công trên Instagram	
+home.instagram.button	Instagram 팔로우	Theo dõi trên Instagram	
+shop.hero.title	Medical Pass 선택	Chọn Medical Pass của bạn	
+shop.hero.subtitle	여행에 적합한 보호 수준을 선택하세요	Chọn mức độ bảo vệ phù hợp cho hành trình của bạn	
+shop.popular	인기	Phổ biến	
+shop.tier.essential.name	Essential	Essential	
+shop.tier.essential.price	$199	$199	
+shop.tier.essential.description	기본 보호 및 지원	Bảo vệ và hỗ trợ cơ bản	
+shop.tier.essential.features.0	공항 픽업 (편도)	Đón sân bay (một chiều)	
+shop.tier.essential.features.1	$199 병원 바우처	Voucher phòng khám $199	
+shop.tier.essential.features.2	24/7 전화 지원	Hỗ trợ điện thoại 24/7	
+shop.tier.essential.features.3	기본 여행 가이드	Hướng dẫn du lịch cơ bản	
+shop.tier.essential.features.4	디지털 Medical Pass	Medical Pass kỹ thuật số	
+shop.tier.safety.name	Safety	Safety	
+shop.tier.safety.price	$499	$499	
+shop.tier.safety.description	보장 혜택이 포함된 완벽한 보호	Bảo vệ hoàn chỉnh với bảo hiểm	
+shop.tier.safety.features.0	왕복 공항 픽업	Đón tiễn sân bay khứ hồi	
+shop.tier.safety.features.1	$499 병원 바우처	Voucher phòng khám $499	
+shop.tier.safety.features.2	KB 보장 혜택 ($15,000)	Bảo hiểm KB ($15,000)	
+shop.tier.safety.features.3	우선 의료 지원	Hỗ trợ y tế ưu tiên	
+shop.tier.safety.features.4	병원 동행 서비스	Dịch vụ hộ tống phòng khám	
+shop.tier.safety.features.5	회복 케어 패키지	Gói chăm sóc hồi phục	
+shop.tier.safety.features.6	디지털 Medical Pass	Medical Pass kỹ thuật số	
+shop.tier.safety.badge	가장 인기	Phổ biến nhất	
+shop.tier.vip.name	VIP	VIP	
+shop.tier.vip.price	$1,390	$1,390	
+shop.tier.vip.description	럭셔리 올인클루시브 경험	Trải nghiệm sang trọng toàn diện	
+shop.tier.vip.features.0	프리미엄 차량 픽업 (왕복)	Xe cao cấp đón tiễn (khứ hồi)	
+shop.tier.vip.features.1	$1,390 병원 바우처	Voucher phòng khám $1,390	
+shop.tier.vip.features.2	KB 보장 혜택 ($50,000)	Bảo hiểm VIP ($50,000)	
+shop.tier.vip.features.3	전담 케어 매니저	Quản lý chăm sóc riêng	
+shop.tier.vip.features.4	5성급 호텔 할인	Giảm giá khách sạn 5 sao	
+shop.tier.vip.features.5	전문 통역 서비스	Dịch vụ thông dịch chuyên nghiệp	
+shop.tier.vip.features.6	우선 응급 의료	Y tế khẩn cấp ưu tiên	
+shop.tier.vip.features.7	럭셔리 회복 키트	Bộ hồi phục sang trọng	
+shop.tier.vip.features.8	블랙 티어 Medical Pass	Medical Pass hạng Black	
+shop.tier.vip.badge	최고급	Cao cấp nhất	
+shop.button	구매하기	Mua	
+shop.faq.title	자주 묻는 질문	Câu hỏi thường gặp	
+shop.faq.questions.0.question	어떤 병원이든 사용할 수 있나요?	Có dùng được với mọi bệnh viện không?	
+shop.faq.questions.0.answer	네, 모든 패스는 서울의 정식 인허가 클리닉에서 사용할 수 있습니다. 검증된 의료 네트워크와 협력합니다.	Có, tất cả pass của chúng tôi hợp lệ tại mọi phòng khám có giấy phép ở Seoul. Chúng tôi hợp tác với mạng lưới cơ sở y tế được xác minh rộng khắp.	
+shop.faq.questions.1.question	취소하면 어떻게 되나요?	Hủy đặt chỗ thì sao?	
+shop.faq.questions.1.answer	도착 3일 전까지는 100% 환불됩니다. 3일 이내 취소는 20% 처리 수수료가 적용됩니다.	Hoàn tiền 100% nếu hủy trước 3 ngày hoặc hơn so với ngày đến. Hủy trong vòng 3 ngày chịu phí xử lý 20%.	
+shop.faq.questions.2.question	보장은 언제 시작되나요?	Bảo hiểm bắt đầu khi nào?	
+shop.faq.questions.2.answer	보장은 시술일로부터 시작되며, 재수술 필요 시 12개월간 유효합니다.	Bảo hiểm có hiệu lực từ ngày thủ thuật và có giá trị 12 tháng cho nhu cầu tái phẫu thuật.	
+shop.faq.questions.3.question	24/7 핫라인에는 무엇이 포함되나요?	Hotline 24/7 gồm những gì?	
+shop.faq.questions.3.answer	다국어 지원팀이 의료 통역, 긴급 지원, 일정 조율, 일반 여행 지원을 제공합니다.	Đội ngũ đa ngôn ngữ cung cấp phiên dịch y tế, hỗ trợ khẩn cấp, điều phối lịch hẹn và hỗ trợ du lịch chung.	
+shop.faq.oneTime	1회 결제	một lần	
+shop.faq.essentialNoInsurance	보장 혜택	Lợi ích bảo vệ	
+shop.faq.essentialNoReturn	귀국 공항 서비스	Dịch vụ sân bay về	
+shop.faq.essentialWarning	⚠️ 보호 서비스 미포함	⚠️ Không bao gồm bảo hiểm	
+shop.faq.safetyStandardInsurance	기본 보장 (최대 $3,000)	Bảo vệ tiêu chuẩn (đến $3,000)	
+shop.faq.safetyInsuranceIncluded	보장 혜택 포함	Đã bao gồm lợi ích bảo vệ	
+shop.faq.vipPremiumInsurance	프리미엄 보장 (최대 $15,000)	Bảo vệ cao cấp (đến $15,000)	
+shop.faq.vipResurgeryCoverage	재수술 항공/호텔 보장	Bay & Khách sạn cho tái phẫu thuật	
+shop.faq.vipLoungeAccess	VIP 라운지 이용	Vào VIP Lounge	
+shop.faq.vipMaxProtection	최대 보장 + 럭셔리 서비스	Bảo vệ tối đa & dịch vụ cao cấp	
+shop.faq.whySafetyTitle	왜 Safety Pass인가요?	Tại sao chọn Safety Pass?	
+shop.faq.whySafetyBullets.0	예상치 못한 의학적 합병증에 대한 보장	Bảo hiểm cho biến chứng không mong đợi	
+shop.faq.whySafetyBullets.1	재수술 시 항공/호텔 비용 보장	Chi phí bay & khách sạn cho tái phẫu thuật	
+shop.faq.whySafetyBullets.2	긴급 비용 최대 $15,000 절감	Tiết kiệm đến $15,000 chi phí khẩn cấp	
+shop.faq.exclusionNote	단순 미용 불만족(Simple Dissatisfaction)은 제외됩니다. 의학적 부작용(Medical Complication) 또는 사고에 한하여 심의위원회 승인 후 지급됩니다.	Không hài lòng thẩm mỹ đơn thuần bị loại trừ. Chỉ áp dụng biến chứng y tế hoặc tai nạn, sau khi hội đồng phê duyệt.	
+shop.guarantee.title	30일 환불 보장	Đảm bảo hoàn tiền 30 ngày	
+shop.guarantee.moneyBack	환불 보장	Hoàn tiền	
+shop.guarantee.secure	안전 결제	Thanh toán an toàn	
+shop.guarantee.support	24/7 지원	Hỗ trợ 24/7	
+freeOffer.hero.badge	무료 혜택	Ưu đãi miễn phí	
+freeOffer.hero.title	BBG 파트너 병원 예약 시 무료 혜택	Ưu đãi miễn phí khi đặt phòng khám đối tác BBG	
+freeOffer.hero.subtitle	추가 비용 없이 프리미엄 서비스 받기	Nhận dịch vụ cao cấp không phụ thu	
+freeOffer.benefits.title	무료로 받을 수 있는 혜택	Những gì bạn nhận miễn phí	
+freeOffer.benefits.pickup.title	무료 공항 픽업	Đón sân bay miễn phí	
+freeOffer.benefits.pickup.description	인천공항에서 호텔까지 편안한 이동	Di chuyển thoải mái từ sân bay Incheon đến khách sạn	
+freeOffer.benefits.consultation.title	무료 의료 상담	Tư vấn y tế miễn phí	
+freeOffer.benefits.consultation.description	경험 많은 의료 코디네이터와 상담	Kết nối với điều phối viên y tế giàu kinh nghiệm	
+freeOffer.benefits.support.title	24/7 전화 지원	Hỗ trợ điện thoại 24/7	
+freeOffer.benefits.support.description	긴급 상황 대비 다국어 지원	Hỗ trợ đa ngôn ngữ cho tình huống khẩn cấp	
+freeOffer.benefits.guide.title	디지털 여행 가이드	Hướng dẫn du lịch kỹ thuật số	
+freeOffer.benefits.guide.description	서울 성형수술 여행 완벽 가이드	Hướng dẫn đầy đủ về du lịch phẫu thuật thẩm mỹ Seoul	
+freeOffer.form.title	무료 상담 신청	Yêu cầu tư vấn miễn phí	
+freeOffer.form.subtitle	정보를 입력하시면 24시간 이내 연락드립니다	Điền form và chúng tôi sẽ liên hệ trong 24 giờ	
+freeOffer.form.name	성함	Họ tên	
+freeOffer.form.namePlaceholder	성함을 입력하세요	Nhập tên của bạn	
+freeOffer.form.email	이메일	Email	
+freeOffer.form.emailPlaceholder	이메일을 입력하세요	Nhập email của bạn	
+freeOffer.form.phone	전화번호	Số điện thoại	
+freeOffer.form.phonePlaceholder	전화번호를 입력하세요	Nhập số điện thoại	
+freeOffer.form.procedure	관심 시술	Thủ thuật quan tâm	
+freeOffer.form.procedurePlaceholder	시술 선택	Chọn thủ thuật	
+freeOffer.form.procedures.rhinoplasty	코성형	Phẫu thuật mũi	
+freeOffer.form.procedures.doubleeyelid	쌍꺼풀	Phẫu thuật mí mắt	
+freeOffer.form.procedures.facelift	안면거상	Căng da mặt	
+freeOffer.form.procedures.liposuction	지방흡입	Hút mỡ	
+freeOffer.form.procedures.breastAugmentation	가슴확대	Nâng ngực	
+freeOffer.form.procedures.other	기타	Khác	
+freeOffer.form.date	예상 수술 날짜	Ngày phẫu thuật dự kiến	
+freeOffer.form.datePlaceholder	날짜 선택	Chọn ngày	
+freeOffer.form.message	추가 정보	Thông tin thêm	
+freeOffer.form.messagePlaceholder	질문이나 특별 요청사항을 입력하세요	Câu hỏi hoặc yêu cầu đặc biệt	
+freeOffer.form.consent	Seoul Beauty Pass가 제 정보를 처리하는 것에 동의합니다	Tôi đồng ý để BBG Medical Pass xử lý thông tin của tôi	
+freeOffer.form.button	무료 상담 신청	Yêu cầu tư vấn miễn phí	
+freeOffer.form.buttonSubmitting	예약 생성 중...	Đang tạo đặt chỗ...	
+freeOffer.form.emailHelp	예약 확인서를 이 이메일로 보내드립니다	Chúng tôi sẽ gửi xác nhận đặt chỗ đến email này	
+freeOffer.form.success	신청 완료!	Đã gửi yêu cầu!	
+freeOffer.form.successMessage	곧 연락드리겠습니다.	Chúng tôi sẽ liên hệ sớm.	
+freeOffer.partners.title	파트너 병원	Phòng khám đối tác	
+freeOffer.partners.subtitle	한국 최고의 성형외과와 협력	Hợp tác với các phòng khám hàng đầu Hàn Quốc	
+freeOffer.comparison.title	직접 예약 vs BBG 예약	Đặt trực tiếp vs Đặt qua BBG	
+freeOffer.comparison.headers.service	서비스	Dịch vụ	
+freeOffer.comparison.headers.direct	직접 예약	Đặt trực tiếp	
+freeOffer.comparison.headers.bbg	BBG 예약	Đặt BBG	
+freeOffer.comparison.surgeryCost	수술 비용	Chi phí phẫu thuật	
+freeOffer.comparison.samePrice	동일 가격	Cùng giá	
+freeOffer.comparison.simData	SIM 카드 & 데이터	SIM & Data	
+freeOffer.comparison.totalValue	총 가치	Tổng giá trị	
+freeOffer.comparison.saveLabel	$199 절약!	Tiết kiệm $199!	
+freeOffer.comparison.importantNoteTitle	안내	Lưu ý quan trọng	
+freeOffer.comparison.importantNoteBody	파트너 병원은 직접 예약과 동일한 가격을 유지합니다. BBG는 병원으로부터 소정의 제휴 수수료를 받아 무료 컨시어지 서비스를 제공합니다. 고객은 같은 가격으로 더 큰 가치를 받습니다.	Phòng khám đối tác giữ giá như đặt trực tiếp. Chúng tôi nhận hoa hồng giới thiệu từ phòng khám, giúp cung cấp dịch vụ concierge miễn phí. Bạn trả cùng giá nhưng nhận nhiều giá trị hơn.	
+freeOffer.comparison.preferredContactMethod	선호 연락 수단 *	Cách liên hệ ưu tiên *	
+freeOffer.comparison.whatsappNumber	왓츠앱 번호	Số WhatsApp	
+freeOffer.comparison.antiAging	안티에이징 시술	Điều trị chống lão hóa	
+freeOffer.comparison.submitCta	무료 상담 신청 & 패스 받기	Nhận tư vấn miễn phí & Nhận Pass	
+freeOffer.comparison.fastResponse	빠른 응답	Phản hồi nhanh	
+freeOffer.comparison.fastResponseDesc	24시간 내 회신	Phản hồi trong 24 giờ	
+freeOffer.comparison.multilingual	다국어 지원	Đa ngôn ngữ	
+freeOffer.comparison.multilingualDesc	7개 언어 지원	Hỗ trợ 7 ngôn ngữ	
+freeOffer.comparison.noObligation	부담 없음	Không ràng buộc	
+freeOffer.comparison.noObligationDesc	무료 상담, 강요 없음	Tư vấn miễn phí, không áp lực	
+freeOffer.comparison.alertSuccess	감사합니다! 24시간 내에 연락드려 무료 Essential Pass 신청을 도와드리겠습니다.	Cảm ơn! Chúng tôi sẽ liên hệ trong 24 giờ để trao đổi tư vấn và nhận Essential Pass miễn phí của bạn.	
+freeOffer.howItWorks.title	진행 방식	Cách hoạt động	
+freeOffer.howItWorks.step1.title	양식 작성	Điền form	
+freeOffer.howItWorks.step1.description	관심사와 선호도 공유	Chia sẻ sở thích của bạn	
+freeOffer.howItWorks.step2.title	전문가 매칭	Kết nối chuyên gia	
+freeOffer.howItWorks.step2.description	24시간 이내 맞춤 병원 추천	Nhận đề xuất phòng khám trong 24 giờ	
+freeOffer.howItWorks.step3.title	예약 확정	Xác nhận đặt chỗ	
+freeOffer.howItWorks.step3.description	병원 예약 후 즉시 무료 혜택 활성화	Ưu đãi miễn phí kích hoạt ngay	
+howItWorks.hero.title	Seoul Beauty Pass 이용 방법	BBG Medical Pass hoạt động như thế nào	
+howItWorks.hero.subtitle	처음부터 끝까지 함께합니다	Chúng tôi đồng hành từ đầu đến cuối	
+howItWorks.journey.title	여행 타임라인	Lộ trình hành trình	
+howItWorks.journey.beforeDeparture.title	출국 전	Trước khi khởi hành	
+howItWorks.journey.beforeDeparture.step1.title	Pass 구매 또는 무료 혜택 신청	Mua thẻ hoặc đăng ký ưu đãi miễn phí	
+howItWorks.journey.beforeDeparture.step1.description	적합한 옵션을 선택하고 즉시 확인받기	Chọn tùy chọn và nhận xác nhận ngay	
+howItWorks.journey.beforeDeparture.step2.title	디지털 Medical Pass 받기	Nhận Medical Pass kỹ thuật số	
+howItWorks.journey.beforeDeparture.step2.description	바우처, QR 코드, 여행 가이드가 포함된 이메일	Email với voucher, mã QR và hướng dẫn	
+howItWorks.journey.beforeDeparture.step3.title	여행 계획	Lên kế hoạch	
+howItWorks.journey.beforeDeparture.step3.description	케어 매니저가 픽업, 숙박 등 조율	Quản lý chăm sóc điều phối đón tiễn, lưu trú	
+howItWorks.journey.arrival.title	도착일	Ngày đến	
+howItWorks.journey.arrival.step1.title	공항 픽업	Đón sân bay	
+howItWorks.journey.arrival.step1.description	인천공항에서 전용 기사 미팅	Gặp tài xế riêng tại sân bay Incheon	
+howItWorks.journey.arrival.step2.title	호텔 체크인	Nhận phòng khách sạn	
+howItWorks.journey.arrival.step2.description	호텔까지 안전하게 이동 (VIP는 5성급 할인)	Di chuyển an toàn đến khách sạn (VIP giảm giá 5 sao)	
+howItWorks.journey.arrival.step3.title	환영 패키지	Gói chào mừng	
+howItWorks.journey.arrival.step3.description	SIM 카드, 가이드, 긴급 연락처 받기	Nhận SIM, hướng dẫn, liên hệ khẩn cấp	
+howItWorks.journey.surgeryDay.title	수술일	Ngày phẫu thuật	
+howItWorks.journey.surgeryDay.step1.title	병원 픽업	Đón đến phòng khám	
+howItWorks.journey.surgeryDay.step1.description	정시에 호텔에서 병원으로 이동	Di chuyển đúng giờ từ khách sạn đến phòng khám	
+howItWorks.journey.surgeryDay.step2.title	바우처 사용	Sử dụng voucher	
+howItWorks.journey.surgeryDay.step2.description	병원에 QR 코드 제시하여 할인 적용	Xuất trình mã QR tại phòng khám để giảm giá	
+howItWorks.journey.surgeryDay.step3.title	수술 중 지원	Hỗ trợ trong phẫu thuật	
+howItWorks.journey.surgeryDay.step3.description	통역 및 케어 매니저 대기	Thông dịch viên và quản lý sẵn sàng	
+howItWorks.journey.recovery.title	회복 기간	Thời gian hồi phục	
+howItWorks.journey.recovery.step1.title	일일 체크인	Kiểm tra hàng ngày	
+howItWorks.journey.recovery.step1.description	의료 팀의 회복 상태 모니터링	Đội y tế theo dõi hồi phục	
+howItWorks.journey.recovery.step2.title	회복 키트	Bộ hồi phục	
+howItWorks.journey.recovery.step2.description	Safety/VIP 패스는 회복 용품 제공	Safety/VIP bao gồm vật tư hồi phục	
+howItWorks.journey.recovery.step3.title	24/7 지원	Hỗ trợ 24/7	
+howItWorks.journey.recovery.step3.description	긴급 상황 시 언제든지 연락 가능	Liên hệ bất cứ lúc nào cho khẩn cấp	
+howItWorks.journey.departure.title	귀국일	Ngày khởi hành	
+howItWorks.journey.departure.step1.title	최종 병원 방문	Khám cuối cùng	
+howItWorks.journey.departure.step1.description	출국 전 검진 예약 지원	Hỗ trợ đặt khám trước khi về	
+howItWorks.journey.departure.step2.title	공항 복귀	Về sân bay	
+howItWorks.journey.departure.step2.description	Safety/VIP는 공항까지 복귀 서비스	Safety/VIP nhận dịch vụ về sân bay	
+howItWorks.journey.departure.step3.title	사후 관리	Chăm sóc sau	
+howItWorks.journey.departure.step3.description	귀국 후 원격 상담 지원	Hỗ trợ tư vấn từ xa sau khi về	
+howItWorks.emergency.title	긴급 상황 프로토콜	Quy trình khẩn cấp	
+howItWorks.emergency.subtitle	귀하의 안전이 최우선입니다	An toàn của bạn là ưu tiên hàng đầu	
+howItWorks.emergency.hotline.title	24/7 긴급 핫라인	Đường dây nóng khẩn cấp 24/7	
+howItWorks.emergency.hotline.description	언제든지 즉시 의료진 연결	Kết nối ngay với chuyên gia y tế	
+howItWorks.emergency.insurance.title	보장 활성화	Kích hoạt bảo hiểm	
+howItWorks.emergency.insurance.description	Safety/VIP: KB 손해보험 즉시 처리	Safety/VIP: KB Insurance xử lý ngay	
+howItWorks.emergency.hospital.title	병원 네트워크	Mạng lưới bệnh viện	
+howItWorks.emergency.hospital.description	서울 주요 병원과 파트너십	Hợp tác với bệnh viện lớn Seoul	
+howItWorks.cta.title	Medical Pass로 여행 보호 시작	Bắt đầu bảo vệ chuyến đi với Medical Pass	
+howItWorks.cta.button	Pass 선택	Chọn thẻ của bạn	
+howItWorks.page.title	여정 안내	Hành trình của bạn, từng bước	
+howItWorks.page.subtitle	입국부터 회복까지, 모든 단계에서 함께합니다.	Từ khi đến đến khi hồi phục, chúng tôi đồng hành cùng bạn.	
+howItWorks.page.sectionArrival	도착	Đến	
+howItWorks.page.sectionCare	케어 & 지원	Chăm sóc & Hỗ trợ	
+howItWorks.page.sectionReturn	귀국 여정	Về	
+howItWorks.page.sectionProtection	보장 & 안심	Bảo vệ & An tâm	
+howItWorks.page.sectionProtectionDesc	합병증으로 재수술이 필요할 경우 보장 혜택이 적용됩니다.	Nếu có biến chứng cần tái phẫu thuật, bảo hiểm của chúng tôi bảo vệ bạn.	
+howItWorks.page.sectionInsuranceTitle	보장 혜택 범위	Bảo hiểm bao gồm gì	
+howItWorks.page.sectionInsuranceSubtitle	KB 보험 공식 파트너십으로 종합 보장을 제공합니다.	Hợp tác chính thức với KB Insurance đảm bảo bảo vệ toàn diện.	
+howItWorks.page.safetyCostLine	재수술 의료비 최대 $3,000	Đến $3,000 chi phí y tế tái phẫu thuật	
+howItWorks.page.safetyValid	12개월 유효	Có hiệu lực 12 tháng	
+howItWorks.page.safetyCoverage	합병증 및 교정 시술 보장	Bao gồm biến chứng và thủ thuật chỉnh sửa	
+howItWorks.page.vipCostLine	재수술 의료비 최대 $15,000	Đến $15,000 chi phí y tế tái phẫu thuật	
+howItWorks.page.vipFlight	한국 왕복 항공비 보장	Bay khứ hồi Hàn Quốc được bao gồm	
+howItWorks.page.vipHotel	재수술 기간 호텔 숙박 지원	Khách sạn trong thời gian tái phẫu thuật	
+howItWorks.page.noteLabel	안내:	Lưu ý:	
+howItWorks.page.noteBody	단순 미용 불만족(Simple Dissatisfaction)은 제외됩니다. 의학적 부작용(Medical Complication) 또는 사고에 한하여 심의위원회 승인 후 지급됩니다. Essential Pass에는 보장이 포함되지 않습니다. 구매 시 약관을 확인하세요.	Không hài lòng thẩm mỹ đơn thuần bị loại trừ. Chỉ áp dụng biến chứng y tế hoặc tai nạn, sau khi hội đồng phê duyệt. Essential Pass không bao gồm bảo vệ. Vui lòng xem tài liệu chính sách đầy đủ khi mua.	
+howItWorks.page.finalTitle	안전한 여정을 시작하세요	Bắt đầu hành trình an toàn hôm nay	
+howItWorks.page.finalSubtitle	나에게 맞는 보호 수준을 선택하고 안심하고 여행하세요.	Chọn mức bảo vệ phù hợp và du lịch tự tin.	
+howItWorks.page.goHome	홈으로	Về trang chủ	
+howItWorks.page.viewPasses	패스 전체 보기	Xem tất cả Pass	
+manageBooking.title	Find Your Trip	Tìm chuyến đi của bạn	
+manageBooking.subtitle	Seoul Beauty Pass 정보 확인	Truy cập chi tiết BBG Medical Pass	
+manageBooking.email	이메일 주소	Địa chỉ email	
+manageBooking.emailPlaceholder	예약 이메일 입력	Nhập email đặt chỗ	
+manageBooking.bookingRef	예약 번호 / 주문 ID	Mã đặt chỗ / ID đơn hàng	
+manageBooking.bookingRefPlaceholder	예: BBG-2026-XXXX	vd. BBG-2026-XXXX	
+manageBooking.button	Medical Pass 보기	Xem Medical Pass của tôi	
+manageBooking.help	예약 번호를 잊으셨나요?	Quên mã tham chiếu?	
+manageBooking.support	24/7 지원 문의	Liên hệ hỗ trợ 24/7	
+manageBooking.supportSubtext	다국어 지원팀이 24시간 대기 중입니다	Đội ngũ đa ngôn ngữ sẵn sàng 24/7	
+manageBooking.secure	안전한 연결 • 정보 보호	Kết nối an toàn • Dữ liệu được bảo vệ	
+dashboard.welcome	환영합니다	Chào mừng	
+dashboard.bookingRef	예약 번호	Mã đặt chỗ	
+dashboard.status.confirmed	확정됨	Đã xác nhận	
+dashboard.status.pending	확인 대기 중	Chờ xác minh	
+dashboard.pass.title	Medical Pass	Medical Pass của bạn	
+dashboard.pass.tier	티어	HẠNG	
+dashboard.pass.voucherValue	바우처 가치	Giá trị voucher	
+dashboard.pass.clinic	병원	Phòng khám	
+dashboard.pass.surgeryDate	수술 날짜	Ngày phẫu thuật	
+dashboard.pass.downloadButton	PDF 바우처 다운로드	Tải PDF Voucher	
+dashboard.services.title	서비스	Dịch vụ của bạn	
+dashboard.services.pickup.title	공항 픽업	Đón sân bay	
+dashboard.services.pickup.driverAssigned	기사 배정됨	Đã phân tài xế	
+dashboard.services.pickup.scheduleNow	지금 예약	Đặt lịch ngay	
+dashboard.services.pickup.driverDetails	기사 정보	Chi tiết tài xế	
+dashboard.services.insurance.title	안전 보호	Bảo vệ an toàn	
+dashboard.services.insurance.active	활성	Hoạt động	
+dashboard.services.insurance.coverage	보장 금액	Số tiền bảo hiểm	
+dashboard.services.insurance.viewCertificate	증명서 보기	Xem chứng nhận	
+dashboard.services.insurance.careManager	담당 매니저: 이정석 (WhatsApp)	Quản lý chăm sóc: Lee Jung Suk (WhatsApp)	
+dashboard.services.hotline.title	24/7 지원	Hỗ trợ 24/7	
+dashboard.services.hotline.availableNow	지금 이용 가능	Sẵn sàng ngay	
+dashboard.services.hotline.description	다국어 의료팀이 언제든지 도와드립니다	Đội y tế đa ngôn ngữ sẵn sàng hỗ trợ	
+dashboard.services.hotline.chatButton	의료진과 채팅	Chat với bác sĩ	
+dashboard.services.hotline.callButton	핫라인 전화	Gọi đường dây nóng	
+dashboard.upsell.title	안전 업그레이드	Nâng cấp an toàn	
+dashboard.upsell.description	현재 <strong>Essential 플랜</strong>을 이용 중입니다. 왕복 픽업 및 보장 혜택 추가하시겠습니까?	Bạn đang dùng <strong>Gói Essential</strong>. Thêm đón về & bảo hiểm nâng cao?	
+dashboard.upsell.features.roundtrip	왕복 공항 픽업	Đón tiễn sân bay khứ hồi	
+dashboard.upsell.features.insurance	최대 $15,000 보장 혜택	Bảo hiểm lên đến $15,000	
+dashboard.upsell.features.priority	우선 의료 지원	Hỗ trợ y tế ưu tiên	
+dashboard.upsell.price	업그레이드 가격	Nâng cấp chỉ	
+dashboard.upsell.oneTime	1회 결제	Thanh toán một lần	
+dashboard.upsell.button	Safety Pass로 업그레이드	Nâng cấp lên Safety Pass	
+dashboard.footer.help	예약에 대해 도움이 필요하거나 질문이 있으신가요?	Cần trợ giúp hoặc có câu hỏi?	
+dashboard.footer.contact	지원팀 문의	Liên hệ hỗ trợ	
+footer.tagline	한국 의료 여행을 위한 신뢰할 수 있는 파트너	Đối tác đáng tin cậy cho du lịch y tế Hàn Quốc	
+footer.about.title	회사 소개	Giới thiệu	
+footer.about.aboutUs	회사 소개	Về chúng tôi	
+footer.about.howItWorks	이용 방법	Cách hoạt động	
+footer.about.partners	파트너 병원	Phòng khám đối tác	
+footer.about.blog	블로그	Blog	
+footer.services.title	서비스	Dịch vụ	
+footer.services.essentialPass	Essential Pass	Essential Pass	
+footer.services.safetyPass	Safety Pass	Safety Pass	
+footer.services.vipPass	VIP Pass	VIP Pass	
+footer.services.freeOffer	무료 혜택	Ưu đãi miễn phí	
+footer.support.title	지원	Hỗ trợ	
+footer.support.helpCenter	고객센터	Trung tâm trợ giúp	
+footer.support.contact	문의하기	Liên hệ	
+footer.support.faq	자주 묻는 질문	Câu hỏi thường gặp	
+footer.support.insurance	보장 정보	Thông tin bảo vệ	
+footer.legal.title	법적 정보	Pháp lý	
+footer.legal.privacy	개인정보 처리방침	Chính sách bảo mật	
+footer.legal.terms	이용약관	Điều khoản dịch vụ	
+footer.legal.medical	의료 면책조항	Tuyên bố từ chối y tế	
+footer.rights	All rights reserved.	Bảo lưu mọi quyền.	
+footer.medical	Seoul Beauty Pass는 의료 서비스 제공자가 아니며 여행 지원 서비스를 제공합니다.	BBG Medical Pass không phải nhà cung cấp y tế và cung cấp dịch vụ hỗ trợ du lịch.	
+common.learnMore	자세히 보기	Tìm hiểu thêm	
+common.getStarted	시작하기	Bắt đầu	
+common.contactUs	문의하기	Liên hệ	
+common.readMore	더 보기	Đọc thêm	
+common.close	닫기	Đóng	
+common.submit	제출	Gửi	
+common.cancel	취소	Hủy	
+common.save	저장	Lưu	
+common.edit	수정	Sửa	
+common.delete	삭제	Xóa	
+common.loading	로딩 중...	Đang tải...	
+common.error	오류가 발생했습니다	Đã xảy ra lỗi	
+common.success	성공!	Thành công!	

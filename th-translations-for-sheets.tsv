@@ -1,0 +1,332 @@
+키	한국어	태국어	번역(감수)
+nav.shop	Shop	ร้านค้า	
+nav.freeOffer	Free Offer	ข้อเสนอฟรี	
+nav.howItWorks	How it Works	วิธีการทำงาน	
+nav.myBooking	My Booking	การจองของฉัน	
+home.hero.landingTitle	한국 성형수술 여행을 안전하게.	ปกป้องการเดินทางศัลยกรรมของคุณในเกาหลี	
+home.hero.landingSubtitle	공항 픽업, 24/7 통역, 최대 $15,000 재수술 보장.	รับที่สนามบิน, แปลภาษา 24/7, และคุ้มครองการผ่าตัดซ้ำสูงสุด $15,000	
+home.hero.badge1	KB 보험 파트너	พาร์ทเนอร์ KB Insurance	
+home.hero.badge2	의료 위원회 인증	รับรองโดยคณะกรรมการแพทย์	
+home.hero.airportService	공항 서비스	บริการสนามบิน	
+home.hero.airportServiceDesc	공항에서 프라이빗 픽업	รับส่วนตัวจากสนามบิน	
+home.hero.support247	24/7 서포트	สนับสนุน 24/7	
+home.hero.support247Desc	24시간 지원 서비스	ความช่วยเหลือตลอด 24 ชั่วโมง	
+home.hero.resurgery	재수술 보장	คุ้มครองการผ่าตัดซ้ำ	
+home.hero.resurgeryDesc	안심을 위한 최대 $15,000 보장	ความคุ้มครองสูงสุด $15,000 เพื่อความอุ่นใจ	
+home.hero.title	이미 병원을 예약하셨나요?	จองคลินิกเรียบร้อยแล้วหรือยัง?	
+home.hero.subtitle	여정 선택	เลือกเส้นทางของคุณ	
+home.hero.yesCard.title	네, 병원을 이미 예약했어요	ใช่ ฉันจองคลินิกแล้ว	
+home.hero.yesCard.description	Essential, Safety 또는 VIP 패스를 구매하여 여행을 보호하세요	ซื้อ Essential, Safety หรือ VIP Pass เพื่อปกป้องการเดินทางของคุณ	
+home.hero.yesCard.button	Pass 구매하기	ซื้อบัตร	
+home.hero.yesCard.badge	유료 상품	สินค้าแบบชำระเงิน	
+home.hero.noCard.title	아니요, BBG를 통해 예약하고 싶어요	ไม่ ฉันต้องการจองผ่าน BBG	
+home.hero.noCard.description	BBG 파트너 병원 예약 시 무료 혜택을 받으세요	รับสิทธิพิเศษฟรีเมื่อจองคลินิกพาร์ทเนอร์ BBG	
+home.hero.noCard.button	무료 혜택 받기	รับสิทธิพิเศษฟรี	
+home.hero.noCard.badge	무료	ฟรี	
+home.whyBBG.title	Seoul Beauty Pass를 선택해야 하는 이유	ทำไมต้องเลือก BBG Medical Pass	
+home.whyBBG.subtitle	한국 성형수술 여행을 위한 신뢰할 수 있는 파트너	พาร์ทเนอร์ที่เชื่อถือได้สำหรับการท่องเที่ยวเพื่อศัลยกรรมในเกาหลี	
+home.whyBBG.safety.title	검증된 안전	ความปลอดภัยที่ได้รับการรับรอง	
+home.whyBBG.safety.description	KB 보험 파트너십과 24/7 응급 지원	พันธมิตรกับ KB Insurance และการสนับสนุนฉุกเฉิน 24/7	
+home.whyBBG.convenience.title	완벽한 편의	ความสะดวกสบายทั้งหมด	
+home.whyBBG.convenience.description	공항 픽업부터 병원 동행까지 모든 것 처리	ตั้งแต่รับที่สนามบินไปจนถึงการพาไปคลินิก เราดูแลทุกอย่าง	
+home.whyBBG.value.title	프리미엄 가치	คุณค่าพรีเมียม	
+home.whyBBG.value.description	독점 바우처와 무료 의료 상담	บัตรกำนัลพิเศษและการปรึกษาทางการแพทย์ฟรี	
+home.howItWorks.title	어떻게 작동하나요	วิธีการทำงาน	
+home.howItWorks.step1.title	패스 선택	เลือกบัตรของคุณ	
+home.howItWorks.step1.description	필요에 맞는 보호 수준을 선택하세요	เลือกระดับการปกป้องที่เหมาะกับคุณ	
+home.howItWorks.step2.title	디지털 바우처 받기	รับบัตรกำนัลดิจิทัล	
+home.howItWorks.step2.description	즉시 확인 및 QR 코드 받기	รับการยืนยันทันทีและ QR code	
+home.howItWorks.step3.title	안전하게 여행	เดินทางอย่างปลอดภัย	
+home.howItWorks.step3.description	한국에서 모든 단계를 지원받으세요	การสนับสนุนเต็มรูปแบบในทุกขั้นตอนในเกาหลี	
+home.cta.title	여행 보호 준비되셨나요?	พร้อมที่จะปกป้องการเดินทางของคุณแล้วหรือยัง?	
+home.cta.subtitle	수천 명의 환자들이 Seoul Beauty Pass를 신뢰합니다	เข้าร่วมกับผู้ป่วยหลายพันคนที่ไว้วางใจ BBG Medical Pass	
+home.cta.button	시작하기	เริ่มต้น	
+home.gate.description	상황에 맞는 경로를 선택하세요.	ความต้องการต่างกัน ทางออกต่างกัน เลือกสิ่งที่เหมาะกับคุณ	
+home.gate.saveBadge	$199 절약	ประหยัด $199	
+home.gate.noBookingTitle	아직 병원을 예약하지 않으셨나요?	ยังไม่ได้จองโรงพยาบาล?	
+home.gate.noBookingPrefix	BBG를 통해 예약하면 	จองผ่าน BBG แล้วรับ 	
+home.gate.noBookingHighlight	Essential Pass($199)를 무료로	Essential Pass ($199) ฟรี	
+home.gate.noBookingSuffix	 받을 수 있어요.		
+home.gate.noBookingBullets.0	직접 예약과 동일한 수술 비용	ราคาผ่าตัดเท่ากับจองโดยตรง	
+home.gate.noBookingBullets.1	무료 공항 픽업 & SIM 카드	รับที่สนามบินและซิมการ์ดฟรี	
+home.gate.noBookingBullets.2	24/7 통역 핫라인 포함	สายด่วนล่ามตลอด 24/7	
+home.gate.bookedTitle	이미 병원을 예약하셨나요?	จองโรงพยาบาลแล้ว?	
+home.gate.bookedDescription	여행에 안전망을 더하세요. 컨시어지 패스를 구매하세요.	เพิ่มความปลอดภัยให้การเดินทางของคุณ ซื้อคอนเซียร์จพาส	
+home.gate.bookedBullets.0	서울의 모든 클리닉에서 사용 가능	ใช้ได้กับทุกคลินิกในโซล	
+home.gate.bookedBullets.1	최대 $15,000 보험 보장	ความคุ้มครองประกันสูงสุด $15,000	
+home.gate.bookedBullets.2	프리미엄 컨시어지 서비스	บริการคอนเซียร์จพรีเมียม	
+home.trust.title	전 세계 수천 명의 환자가 신뢰합니다	ได้รับความไว้วางใจจากผู้ป่วยนานาชาตินับพัน	
+home.trust.subtitle	서울 파트너 병원 및 클리닉	โรงพยาบาลและคลินิกพาร์ทเนอร์ในโซล เกาหลี	
+home.trust.viewAllPartners	파트너 {count}곳 모두 보기	ดูพาร์ทเนอร์ทั้ง {count} แห่ง	
+home.trust.showLess	접기	แสดงน้อยลง	
+home.trust.card1Title	KB 보험 공식 파트너	พาร์ทเนอร์อย่างเป็นทางการของ KB Insurance	
+home.trust.card1Desc	KB 손해보험 파트너십을 통한 의료 시술 보호 혜택	ความคุ้มครองการรักษาพยาบาลผ่านความร่วมมือ KB Insurance	
+home.trust.card2Title	의료 위원회 검증 완료	ได้รับการรับรองจากคณะกรรมการแพทย์	
+home.trust.card2Desc	모든 파트너 클리닉은 엄격한 품질 기준을 충족합니다	คลินิกพาร์ทเนอร์ทุกแห่งผ่านมาตรฐานคุณภาพที่เข้มงวด	
+home.trust.card3Title	24/7 지원 가능	สนับสนุนตลอด 24/7	
+home.trust.card3Desc	다국어 팀이 언제든 지원합니다	ทีมหลายภาษาพร้อมช่วยเหลือทุกเวลา	
+home.instagram.title	실제 환자 여정	เรื่องราวของผู้ป่วยจริง	
+home.instagram.subtitle	Instagram에서 성공 사례와 변화를 확인하세요	ดูเรื่องราวความสำเร็จและการเปลี่ยนแปลงบน Instagram	
+home.instagram.button	Instagram 팔로우	ติดตามเราบน Instagram	
+shop.hero.title	Medical Pass 선택	เลือก Medical Pass ของคุณ	
+shop.hero.subtitle	여행에 적합한 보호 수준을 선택하세요	เลือกระดับการปกป้องที่เหมาะสมสำหรับการเดินทางของคุณ	
+shop.popular	인기	ยอดนิยม	
+shop.tier.essential.name	Essential	Essential	
+shop.tier.essential.price	$199	$199	
+shop.tier.essential.description	기본 보호 및 지원	การปกป้องและการสนับสนุนพื้นฐาน	
+shop.tier.essential.features.0	공항 픽업 (편도)	รับที่สนามบิน (ทางเดียว)	
+shop.tier.essential.features.1	$199 병원 바우처	บัตรกำนัลคลินิก $199	
+shop.tier.essential.features.2	24/7 전화 지원	สนับสนุนทางโทรศัพท์ 24/7	
+shop.tier.essential.features.3	기본 여행 가이드	คู่มือการเดินทางพื้นฐาน	
+shop.tier.essential.features.4	디지털 Medical Pass	Medical Pass ดิจิทัล	
+shop.tier.safety.name	Safety	Safety	
+shop.tier.safety.price	$499	$499	
+shop.tier.safety.description	보장 혜택이 포함된 완벽한 보호	การปกป้องสมบูรณ์พร้อมความคุ้มครอง	
+shop.tier.safety.features.0	왕복 공항 픽업	รับส่งสนามบินแบบไปกลับ	
+shop.tier.safety.features.1	$499 병원 바우처	บัตรกำนัลคลินิก $499	
+shop.tier.safety.features.2	KB 보장 혜택 ($15,000)	ความคุ้มครองผ่าน KB ($15,000)	
+shop.tier.safety.features.3	우선 의료 지원	การสนับสนุนทางการแพทย์แบบพิเศษ	
+shop.tier.safety.features.4	병원 동행 서비스	บริการพาไปคลินิก	
+shop.tier.safety.features.5	회복 케어 패키지	แพ็คเกจดูแลหลังผ่าตัด	
+shop.tier.safety.features.6	디지털 Medical Pass	Medical Pass ดิจิทัล	
+shop.tier.safety.badge	가장 인기	ยอดนิยมที่สุด	
+shop.tier.vip.name	VIP	VIP	
+shop.tier.vip.price	$1,390	$1,390	
+shop.tier.vip.description	럭셔리 올인클루시브 경험	ประสบการณ์หรูหราแบบครบวงจร	
+shop.tier.vip.features.0	프리미엄 차량 픽업 (왕복)	รถพรีเมียมรับส่ง (ไปกลับ)	
+shop.tier.vip.features.1	$1,390 병원 바우처	บัตรกำนัลคลินิก $1,390	
+shop.tier.vip.features.2	KB 보장 혜택 ($50,000)	ความคุ้มครองผ่าน KB ($50,000)	
+shop.tier.vip.features.3	전담 케어 매니저	ผู้จัดการดูแลเฉพาะ	
+shop.tier.vip.features.4	5성급 호텔 할인	ส่วนลดโรงแรม 5 ดาว	
+shop.tier.vip.features.5	전문 통역 서비스	บริการล่ามมืออาชีพ	
+shop.tier.vip.features.6	우선 응급 의료	การแพทย์ฉุกเฉินแบบพิเศษ	
+shop.tier.vip.features.7	럭셔리 회복 키트	ชุดฟื้นฟูหรูหรา	
+shop.tier.vip.features.8	블랙 티어 Medical Pass	Medical Pass ระดับแบล็ค	
+shop.tier.vip.badge	최고급	สูงสุด	
+shop.button	구매하기	ซื้อ	
+shop.faq.title	자주 묻는 질문	คำถามที่พบบ่อย	
+shop.faq.questions.0.question	어떤 병원이든 사용할 수 있나요?	สามารถใช้กับทุกโรงพยาบาลได้หรือไม่?	
+shop.faq.questions.0.answer	네, 모든 패스는 서울의 정식 인허가 클리닉에서 사용할 수 있습니다. 검증된 의료 네트워크와 협력합니다.	ได้ ทุกพาสสามารถใช้ได้กับคลินิกที่ได้รับอนุญาตทุกแห่งในโซล เราทำงานร่วมกับเครือข่ายการแพทย์ที่ได้รับการรับรอง	
+shop.faq.questions.1.question	취소하면 어떻게 되나요?	ถ้าต้องการยกเลิกจะเป็นอย่างไร?	
+shop.faq.questions.1.answer	도착 3일 전까지는 100% 환불됩니다. 3일 이내 취소는 20% 처리 수수료가 적용됩니다.	คืนเงินเต็มจำนวนหากยกเลิกก่อนเดินทาง 3 วัน หากยกเลิกภายใน 3 วัน มีค่าธรรมเนียม 20%	
+shop.faq.questions.2.question	보장은 언제 시작되나요?	ความคุ้มครองประกันเริ่มเมื่อไหร่?	
+shop.faq.questions.2.answer	보장은 시술일로부터 시작되며, 재수술 필요 시 12개월간 유효합니다.	ประกันเริ่มตั้งแต่วันทำหัตถการ มีผลบังคับใช้ 12 เดือนสำหรับการผ่าตัดซ้ำ	
+shop.faq.questions.3.question	24/7 핫라인에는 무엇이 포함되나요?	สายด่วน 24/7 ครอบคลุมอะไรบ้าง?	
+shop.faq.questions.3.answer	다국어 지원팀이 의료 통역, 긴급 지원, 일정 조율, 일반 여행 지원을 제공합니다.	ทีมหลายภาษาให้บริการแปลภาษาทางการแพทย์ ช่วยเหลือฉุกเฉิน จัดตารางนัดหมาย และช่วยเหลือด้านการเดินทางทั่วไป	
+shop.faq.oneTime	1회 결제	ชำระครั้งเดียว	
+shop.faq.essentialNoInsurance	보장 혜택	ความคุ้มครอง	
+shop.faq.essentialNoReturn	귀국 공항 서비스	บริการส่งกลับสนามบิน	
+shop.faq.essentialWarning	⚠️ 보호 서비스 미포함	⚠️ ไม่รวมบริการป้องกัน	
+shop.faq.safetyStandardInsurance	기본 보장 (최대 $3,000)	ความคุ้มครองมาตรฐาน (สูงสุด $3,000)	
+shop.faq.safetyInsuranceIncluded	보장 혜택 포함	รวมความคุ้มครอง	
+shop.faq.vipPremiumInsurance	프리미엄 보장 (최대 $15,000)	ความคุ้มครองพรีเมียม (สูงสุด $15,000)	
+shop.faq.vipResurgeryCoverage	재수술 항공/호텔 보장	คุ้มครองเที่ยวบิน/โรงแรมสำหรับการผ่าตัดซ้ำ	
+shop.faq.vipLoungeAccess	VIP 라운지 이용	เข้าใช้ VIP Lounge	
+shop.faq.vipMaxProtection	최대 보장 + 럭셔리 서비스	ความคุ้มครองสูงสุด + บริการหรูหรา	
+shop.faq.whySafetyTitle	왜 Safety Pass인가요?	ทำไมต้อง Safety Pass?	
+shop.faq.whySafetyBullets.0	예상치 못한 의학적 합병증에 대한 보장	ความคุ้มครองภาวะแทรกซ้อนทางการแพทย์ที่ไม่คาดคิด	
+shop.faq.whySafetyBullets.1	재수술 시 항공/호텔 비용 보장	คุ้มครองเที่ยวบิน/โรงแรมสำหรับการผ่าตัดซ้ำ	
+shop.faq.whySafetyBullets.2	긴급 비용 최대 $15,000 절감	ประหยัดค่าฉุกเฉินสูงสุด $15,000	
+shop.faq.exclusionNote	단순 미용 불만족(Simple Dissatisfaction)은 제외됩니다. 의학적 부작용(Medical Complication) 또는 사고에 한하여 심의위원회 승인 후 지급됩니다.	ความไม่พึงพอใจด้านความสวยงามอย่างเดียว (Simple Dissatisfaction) ไม่ครอบคลุม ใช้ได้เฉพาะภาวะแทรกซ้อนทางการแพทย์ (Medical Complication) หรืออุบัติเหตุ เมื่อคณะกรรมการอนุมัติ	
+shop.guarantee.title	30일 환불 보장	รับประกันคืนเงิน 30 วัน	
+shop.guarantee.moneyBack	환불 보장	คืนเงิน	
+shop.guarantee.secure	안전 결제	การชำระเงินที่ปลอดภัย	
+shop.guarantee.support	24/7 지원	สนับสนุน 24/7	
+freeOffer.hero.badge	무료 혜택	ข้อเสนอฟรี	
+freeOffer.hero.title	BBG 파트너 병원 예약 시 무료 혜택	สิทธิพิเศษฟรีเมื่อคุณจองคลินิกพาร์ทเนอร์ BBG	
+freeOffer.hero.subtitle	추가 비용 없이 프리미엄 서비스 받기	รับบริการพรีเมียมโดยไม่มีค่าใช้จ่ายเพิ่มเติม	
+freeOffer.benefits.title	무료로 받을 수 있는 혜택	สิ่งที่คุณได้รับฟรี	
+freeOffer.benefits.pickup.title	무료 공항 픽업	รับที่สนามบินฟรี	
+freeOffer.benefits.pickup.description	인천공항에서 호텔까지 편안한 이동	การเดินทางที่สะดวกสบายจากสนามบินอินชอนไปยังโรงแรมของคุณ	
+freeOffer.benefits.consultation.title	무료 의료 상담	การปรึกษาทางการแพทย์ฟรี	
+freeOffer.benefits.consultation.description	경험 많은 의료 코디네이터와 상담	เชื่อมต่อกับผู้ประสานงานทางการแพทย์ที่มีประสบการณ์	
+freeOffer.benefits.support.title	24/7 전화 지원	สนับสนุนทางโทรศัพท์ 24/7	
+freeOffer.benefits.support.description	긴급 상황 대비 다국어 지원	ความช่วยเหลือหลายภาษาสำหรับสถานการณ์ฉุกเฉิน	
+freeOffer.benefits.guide.title	디지털 여행 가이드	คู่มือการเดินทางดิจิทัล	
+freeOffer.benefits.guide.description	서울 성형수술 여행 완벽 가이드	คู่มือสมบูรณ์สำหรับการท่องเที่ยวศัลยกรรมในโซล	
+freeOffer.form.title	무료 상담 신청	ขอการปรึกษาฟรี	
+freeOffer.form.subtitle	정보를 입력하시면 24시간 이내 연락드립니다	กรอกแบบฟอร์มและเราจะติดต่อคุณภายใน 24 ชั่วโมง	
+freeOffer.form.name	성함	ชื่อ-นามสกุล	
+freeOffer.form.namePlaceholder	성함을 입력하세요	กรอกชื่อของคุณ	
+freeOffer.form.email	이메일	อีเมล	
+freeOffer.form.emailPlaceholder	이메일을 입력하세요	กรอกอีเมลของคุณ	
+freeOffer.form.phone	전화번호	หมายเลขโทรศัพท์	
+freeOffer.form.phonePlaceholder	전화번호를 입력하세요	กรอกหมายเลขโทรศัพท์	
+freeOffer.form.procedure	관심 시술	การผ่าตัดที่สนใจ	
+freeOffer.form.procedurePlaceholder	시술 선택	เลือกการผ่าตัด	
+freeOffer.form.procedures.rhinoplasty	코성형	ศัลยกรรมจมูก	
+freeOffer.form.procedures.doubleeyelid	쌍꺼풀	ศัลยกรรมตาสองชั้น	
+freeOffer.form.procedures.facelift	안면거상	ศัลยกรรมดึงหน้า	
+freeOffer.form.procedures.liposuction	지방흡입	ดูดไขมัน	
+freeOffer.form.procedures.breastAugmentation	가슴확대	เสริมหน้าอก	
+freeOffer.form.procedures.other	기타	อื่นๆ	
+freeOffer.form.date	예상 수술 날짜	วันที่ผ่าตัดที่ต้องการ	
+freeOffer.form.datePlaceholder	날짜 선택	เลือกวันที่	
+freeOffer.form.message	추가 정보	ข้อมูลเพิ่มเติม	
+freeOffer.form.messagePlaceholder	질문이나 특별 요청사항을 입력하세요	คำถามหรือคำขอพิเศษใดๆ	
+freeOffer.form.consent	Seoul Beauty Pass가 제 정보를 처리하는 것에 동의합니다	ฉันยินยอมให้ BBG Medical Pass ประมวลผลข้อมูลของฉัน	
+freeOffer.form.button	무료 상담 신청	ขอการปรึกษาฟรี	
+freeOffer.form.buttonSubmitting	예약 생성 중...	กำลังสร้างการจอง...	
+freeOffer.form.emailHelp	예약 확인서를 이 이메일로 보내드립니다	เราจะส่งการยืนยันการจองไปที่อีเมลนี้	
+freeOffer.form.success	신청 완료!	ส่งคำขอแล้ว!	
+freeOffer.form.successMessage	곧 연락드리겠습니다.	เราจะติดต่อคุณเร็วๆ นี้	
+freeOffer.partners.title	파트너 병원	คลินิกพาร์ทเนอร์	
+freeOffer.partners.subtitle	한국 최고의 성형외과와 협력	เราทำงานร่วมกับคลินิกศัลยกรรมชั้นนำของเกาหลี	
+freeOffer.comparison.title	직접 예약 vs BBG 예약	จองเองเทียบกับจองผ่าน BBG	
+freeOffer.comparison.headers.service	서비스	บริการ	
+freeOffer.comparison.headers.direct	직접 예약	จองเอง	
+freeOffer.comparison.headers.bbg	BBG 예약	จอง BBG	
+freeOffer.comparison.surgeryCost	수술 비용	ค่าผ่าตัด	
+freeOffer.comparison.samePrice	동일 가격	ราคาเท่ากัน	
+freeOffer.comparison.simData	SIM 카드 & 데이터	ซิมการ์ด & อินเทอร์เน็ต	
+freeOffer.comparison.totalValue	총 가치	มูลค่ารวม	
+freeOffer.comparison.saveLabel	$199 절약!	ประหยัด $199!	
+freeOffer.comparison.importantNoteTitle	안내	หมายเหตุ	
+freeOffer.comparison.importantNoteBody	파트너 병원은 직접 예약과 동일한 가격을 유지합니다. BBG는 병원으로부터 소정의 제휴 수수료를 받아 무료 컨시어지 서비스를 제공합니다. 고객은 같은 가격으로 더 큰 가치를 받습니다.	คลินิกพาร์ทเนอร์คิดค่าบริการเท่ากับการจองโดยตรง BBG ได้รับค่าคอมมิชชันจากคลินิกเพื่อให้บริการคอนเซียร์จฟรี ลูกค้าได้รับคุณค่ามากขึ้นในราคาเท่ากัน	
+freeOffer.comparison.preferredContactMethod	선호 연락 수단 *	วิธีติดต่อที่ต้องการ *	
+freeOffer.comparison.whatsappNumber	왓츠앱 번호	หมายเลข WhatsApp	
+freeOffer.comparison.antiAging	안티에이징 시술	การรักษาชะลอวัย	
+freeOffer.comparison.submitCta	무료 상담 신청 & 패스 받기	ขอคำปรึกษาฟรี & รับพาส	
+freeOffer.comparison.fastResponse	빠른 응답	ตอบกลับรวดเร็ว	
+freeOffer.comparison.fastResponseDesc	24시간 내 회신	ตอบกลับภายใน 24 ชั่วโมง	
+freeOffer.comparison.multilingual	다국어 지원	หลายภาษา	
+freeOffer.comparison.multilingualDesc	7개 언어 지원	รองรับ 7 ภาษา	
+freeOffer.comparison.noObligation	부담 없음	ไม่มีข้อผูกมัด	
+freeOffer.comparison.noObligationDesc	무료 상담, 강요 없음	ปรึกษาฟรี ไม่บังคับ	
+freeOffer.comparison.alertSuccess	감사합니다! 24시간 내에 연락드려 무료 Essential Pass 신청을 도와드리겠습니다.	ขอบคุณ! เราจะติดต่อคุณภายใน 24 ชั่วโมงเพื่อช่วยสมัคร Essential Pass ฟรี	
+freeOffer.howItWorks.title	진행 방식	วิธีการทำงาน	
+freeOffer.howItWorks.step1.title	양식 작성	กรอกแบบฟอร์ม	
+freeOffer.howItWorks.step1.description	관심사와 선호도 공유	แบ่งปันความสนใจและความชอบของคุณ	
+freeOffer.howItWorks.step2.title	전문가 매칭	จับคู่ผู้เชี่ยวชาญ	
+freeOffer.howItWorks.step2.description	24시간 이내 맞춤 병원 추천	รับคำแนะนำคลินิกส่วนบุคคลภายใน 24 ชั่วโมง	
+freeOffer.howItWorks.step3.title	예약 확정	ยืนยันการจอง	
+freeOffer.howItWorks.step3.description	병원 예약 후 즉시 무료 혜택 활성화	สิทธิพิเศษฟรีเปิดใช้งานทันทีหลังจากจองคลินิก	
+howItWorks.hero.title	Seoul Beauty Pass 이용 방법	BBG Medical Pass ทำงานอย่างไร	
+howItWorks.hero.subtitle	처음부터 끝까지 함께합니다	เราอยู่กับคุณตั้งแต่ต้นจนจบ	
+howItWorks.journey.title	여행 타임라인	ไทม์ไลน์การเดินทางของคุณ	
+howItWorks.journey.beforeDeparture.title	출국 전	ก่อนออกเดินทาง	
+howItWorks.journey.beforeDeparture.step1.title	Pass 구매 또는 무료 혜택 신청	ซื้อบัตรหรือสมัครสิทธิพิเศษฟรี	
+howItWorks.journey.beforeDeparture.step1.description	적합한 옵션을 선택하고 즉시 확인받기	เลือกตัวเลือกของคุณและรับการยืนยันทันที	
+howItWorks.journey.beforeDeparture.step2.title	디지털 Medical Pass 받기	รับ Medical Pass ดิจิทัล	
+howItWorks.journey.beforeDeparture.step2.description	바우처, QR 코드, 여행 가이드가 포함된 이메일	อีเมลพร้อมบัตรกำนัล QR code และคู่มือการเดินทาง	
+howItWorks.journey.beforeDeparture.step3.title	여행 계획	วางแผนการเดินทางของคุณ	
+howItWorks.journey.beforeDeparture.step3.description	케어 매니저가 픽업, 숙박 등 조율	ผู้จัดการดูแลประสานงานการรับส่ง ที่พัก ฯลฯ	
+howItWorks.journey.arrival.title	도착일	วันมาถึง	
+howItWorks.journey.arrival.step1.title	공항 픽업	รับที่สนามบิน	
+howItWorks.journey.arrival.step1.description	인천공항에서 전용 기사 미팅	พบกับคนขับเฉพาะของคุณที่สนามบินอินชอน	
+howItWorks.journey.arrival.step2.title	호텔 체크인	เช็คอินโรงแรม	
+howItWorks.journey.arrival.step2.description	호텔까지 안전하게 이동 (VIP는 5성급 할인)	การเดินทางที่ปลอดภัยไปยังโรงแรม (VIP รับส่วนลดโรงแรม 5 ดาว)	
+howItWorks.journey.arrival.step3.title	환영 패키지	แพ็คเกจต้อนรับ	
+howItWorks.journey.arrival.step3.description	SIM 카드, 가이드, 긴급 연락처 받기	รับซิมการ์ด คู่มือ และหมายเลขติดต่อฉุกเฉิน	
+howItWorks.journey.surgeryDay.title	수술일	วันผ่าตัด	
+howItWorks.journey.surgeryDay.step1.title	병원 픽업	รับไปคลินิก	
+howItWorks.journey.surgeryDay.step1.description	정시에 호텔에서 병원으로 이동	การเดินทางตรงเวลาจากโรงแรมไปคลินิก	
+howItWorks.journey.surgeryDay.step2.title	바우처 사용	ใช้บัตรกำนัล	
+howItWorks.journey.surgeryDay.step2.description	병원에 QR 코드 제시하여 할인 적용	แสดง QR code ที่คลินิกเพื่อรับส่วนลด	
+howItWorks.journey.surgeryDay.step3.title	수술 중 지원	การสนับสนุนระหว่างผ่าตัด	
+howItWorks.journey.surgeryDay.step3.description	통역 및 케어 매니저 대기	ล่ามและผู้จัดการดูแลพร้อมให้บริการ	
+howItWorks.journey.recovery.title	회복 기간	ช่วงฟื้นฟู	
+howItWorks.journey.recovery.step1.title	일일 체크인	ตรวจสอบรายวัน	
+howItWorks.journey.recovery.step1.description	의료 팀의 회복 상태 모니터링	ทีมแพทย์ติดตามการฟื้นฟูของคุณ	
+howItWorks.journey.recovery.step2.title	회복 키트	ชุดฟื้นฟู	
+howItWorks.journey.recovery.step2.description	Safety/VIP 패스는 회복 용품 제공	บัตร Safety/VIP รวมอุปกรณ์ฟื้นฟู	
+howItWorks.journey.recovery.step3.title	24/7 지원	สนับสนุน 24/7	
+howItWorks.journey.recovery.step3.description	긴급 상황 시 언제든지 연락 가능	ติดต่อได้ทุกเมื่อในกรณีฉุกเฉิน	
+howItWorks.journey.departure.title	귀국일	วันเดินทางกลับ	
+howItWorks.journey.departure.step1.title	최종 병원 방문	เยี่ยมคลินิกครั้งสุดท้าย	
+howItWorks.journey.departure.step1.description	출국 전 검진 예약 지원	ความช่วยเหลือในการจองตรวจก่อนเดินทางกลับ	
+howItWorks.journey.departure.step2.title	공항 복귀	กลับสนามบิน	
+howItWorks.journey.departure.step2.description	Safety/VIP는 공항까지 복귀 서비스	Safety/VIP รับบริการส่งกลับสนามบิน	
+howItWorks.journey.departure.step3.title	사후 관리	การดูแลหลังกลับบ้าน	
+howItWorks.journey.departure.step3.description	귀국 후 원격 상담 지원	การสนับสนุนการปรึกษาระยะไกลหลังกลับบ้าน	
+howItWorks.emergency.title	긴급 상황 프로토콜	ขั้นตอนฉุกเฉิน	
+howItWorks.emergency.subtitle	귀하의 안전이 최우선입니다	ความปลอดภัยของคุณคือสิ่งสำคัญที่สุดของเรา	
+howItWorks.emergency.hotline.title	24/7 긴급 핫라인	สายด่วนฉุกเฉิน 24/7	
+howItWorks.emergency.hotline.description	언제든지 즉시 의료진 연결	เชื่อมต่อทันทีกับผู้เชี่ยวชาญทางการแพทย์ตลอดเวลา	
+howItWorks.emergency.insurance.title	보장 활성화	เปิดใช้งานความคุ้มครอง	
+howItWorks.emergency.insurance.description	Safety/VIP: KB 손해보험 즉시 처리	Safety/VIP: KB Insurance ดำเนินการเคลมทันที	
+howItWorks.emergency.hospital.title	병원 네트워크	เครือข่ายโรงพยาบาล	
+howItWorks.emergency.hospital.description	서울 주요 병원과 파트너십	ความร่วมมือกับโรงพยาบาลใหญ่ในโซล	
+howItWorks.cta.title	Medical Pass로 여행 보호 시작	เริ่มปกป้องการเดินทางของคุณด้วย Medical Pass	
+howItWorks.cta.button	Pass 선택	เลือกบัตรของคุณ	
+manageBooking.title	Find Your Trip	ค้นหาการเดินทางของคุณ	
+manageBooking.subtitle	Seoul Beauty Pass 정보 확인	เข้าถึงรายละเอียด BBG Medical Pass ของคุณ	
+manageBooking.email	이메일 주소	ที่อยู่อีเมล	
+manageBooking.emailPlaceholder	예약 이메일 입력	กรอกอีเมลการจอง	
+manageBooking.bookingRef	예약 번호 / 주문 ID	หมายเลขการจอง / รหัสคำสั่งซื้อ	
+manageBooking.bookingRefPlaceholder	예: BBG-2026-XXXX	เช่น BBG-2026-XXXX	
+manageBooking.button	Medical Pass 보기	ดู Medical Pass ของฉัน	
+manageBooking.help	예약 번호를 잊으셨나요?	ลืมหมายเลขอ้างอิงของคุณ?	
+manageBooking.support	24/7 지원 문의	ติดต่อฝ่ายสนับสนุน 24/7	
+manageBooking.supportSubtext	다국어 지원팀이 24시간 대기 중입니다	ทีมหลายภาษาของเราพร้อมให้บริการตลอด 24 ชั่วโมง	
+manageBooking.secure	안전한 연결 • 정보 보호	การเชื่อมต่อที่ปลอดภัย • ข้อมูลของคุณได้รับการปกป้อง	
+dashboard.welcome	환영합니다	ยินดีต้อนรับ	
+dashboard.bookingRef	예약 번호	หมายเลขการจอง	
+dashboard.status.confirmed	확정됨	ยืนยันแล้ว	
+dashboard.status.pending	확인 대기 중	รอการตรวจสอบ	
+dashboard.pass.title	Medical Pass	Medical Pass ของคุณ	
+dashboard.pass.tier	티어	ระดับ	
+dashboard.pass.voucherValue	바우처 가치	มูลค่าบัตรกำนัล	
+dashboard.pass.clinic	병원	คลินิก	
+dashboard.pass.surgeryDate	수술 날짜	วันที่ผ่าตัด	
+dashboard.pass.downloadButton	PDF 바우처 다운로드	ดาวน์โหลดบัตรกำนัล PDF	
+dashboard.services.title	서비스	บริการของคุณ	
+dashboard.services.pickup.title	공항 픽업	รับที่สนามบิน	
+dashboard.services.pickup.driverAssigned	기사 배정됨	มอบหมายคนขับแล้ว	
+dashboard.services.pickup.scheduleNow	지금 예약	จองเลย	
+dashboard.services.pickup.driverDetails	기사 정보	รายละเอียดคนขับ	
+dashboard.services.insurance.title	안전 보호	การป้องกันความปลอดภัย	
+dashboard.services.insurance.active	활성	ใช้งานอยู่	
+dashboard.services.insurance.coverage	보장 금액	จำนวนความคุ้มครอง	
+dashboard.services.insurance.viewCertificate	증명서 보기	ดูใบรับรอง	
+dashboard.services.insurance.careManager	담당 매니저: 이정석 (WhatsApp)	ผู้จัดการดูแล: Lee Jung Suk (WhatsApp)	
+dashboard.services.hotline.title	24/7 지원	ความช่วยเหลือ 24/7	
+dashboard.services.hotline.availableNow	지금 이용 가능	พร้อมให้บริการตอนนี้	
+dashboard.services.hotline.description	다국어 의료팀이 언제든지 도와드립니다	ทีมแพทย์หลายภาษาของเราพร้อมช่วยเหลือคุณตลอดเวลา	
+dashboard.services.hotline.chatButton	의료진과 채팅	แชทกับแพทย์	
+dashboard.services.hotline.callButton	핫라인 전화	โทรสายด่วน	
+dashboard.upsell.title	안전 업그레이드	อัพเกรดความปลอดภัยของคุณ	
+dashboard.upsell.description	현재 <strong>Essential 플랜</strong>을 이용 중입니다. 왕복 픽업 및 보장 혜택 추가하시겠습니까?	ขณะนี้คุณใช้ <strong>แผน Essential</strong> เพิ่มการรับกลับและความคุ้มครองหรือไม่?	
+dashboard.upsell.features.roundtrip	왕복 공항 픽업	การเดินทางไปกลับสนามบิน	
+dashboard.upsell.features.insurance	최대 $15,000 보장 혜택	ความคุ้มครองสูงถึง $15,000	
+dashboard.upsell.features.priority	우선 의료 지원	การสนับสนุนทางการแพทย์แบบพิเศษ	
+dashboard.upsell.price	업그레이드 가격	อัพเกรดเพียง	
+dashboard.upsell.oneTime	1회 결제	ชำระครั้งเดียว	
+dashboard.upsell.button	Safety Pass로 업그레이드	อัพเกรดเป็น Safety Pass	
+dashboard.footer.help	예약에 대해 도움이 필요하거나 질문이 있으신가요?	ต้องการความช่วยเหลือเกี่ยวกับการจองหรือมีคำถาม?	
+dashboard.footer.contact	지원팀 문의	ติดต่อฝ่ายสนับสนุน	
+footer.tagline	한국 의료 여행을 위한 신뢰할 수 있는 파트너	พาร์ทเนอร์ที่เชื่อถือได้สำหรับการท่องเที่ยวเพื่อการแพทย์ในเกาหลี	
+footer.about.title	회사 소개	เกี่ยวกับ	
+footer.about.aboutUs	회사 소개	เกี่ยวกับเรา	
+footer.about.howItWorks	이용 방법	วิธีการทำงาน	
+footer.about.partners	파트너 병원	คลินิกพาร์ทเนอร์	
+footer.about.blog	블로그	บล็อก	
+footer.services.title	서비스	บริการ	
+footer.services.essentialPass	Essential Pass	Essential Pass	
+footer.services.safetyPass	Safety Pass	Safety Pass	
+footer.services.vipPass	VIP Pass	VIP Pass	
+footer.services.freeOffer	무료 혜택	ข้อเสนอฟรี	
+footer.support.title	지원	การสนับสนุน	
+footer.support.helpCenter	고객센터	ศูนย์ช่วยเหลือ	
+footer.support.contact	문의하기	ติดต่อเรา	
+footer.support.faq	자주 묻는 질문	คำถามที่พบบ่อย	
+footer.support.insurance	보장 정보	ข้อมูลความคุ้มครอง	
+footer.legal.title	법적 정보	ข้อกฎหมาย	
+footer.legal.privacy	개인정보 처리방침	นโยบายความเป็นส่วนตัว	
+footer.legal.terms	이용약관	ข้อกำหนดการให้บริการ	
+footer.legal.medical	의료 면책조항	ข้อจำกัดความรับผิดทางการแพทย์	
+footer.rights	All rights reserved.	สงวนลิขสิทธิ์	
+footer.medical	Seoul Beauty Pass는 의료 서비스 제공자가 아니며 여행 지원 서비스를 제공합니다.	BBG Medical Pass ไม่ใช่ผู้ให้บริการทางการแพทย์และให้บริการความช่วยเหลือในการเดินทาง	
+common.learnMore	자세히 보기	เรียนรู้เพิ่มเติม	
+common.getStarted	시작하기	เริ่มต้น	
+common.contactUs	문의하기	ติดต่อเรา	
+common.readMore	더 보기	อ่านเพิ่มเติม	
+common.close	닫기	ปิด	
+common.submit	제출	ส่ง	
+common.cancel	취소	ยกเลิก	
+common.save	저장	บันทึก	
+common.edit	수정	แก้ไข	
+common.delete	삭제	ลบ	
+common.loading	로딩 중...	กำลังโหลด...	
+common.error	오류가 발생했습니다	เกิดข้อผิดพลาด	
+common.success	성공!	สำเร็จ!	

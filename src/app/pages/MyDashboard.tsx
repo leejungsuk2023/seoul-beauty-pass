@@ -224,12 +224,10 @@ export default function MyDashboard() {
               )}
             </div>
 
-            {/* Card B: Insurance */}
+            {/* Card B: Safety Protection (KB Certificate) */}
             <div className="bg-white rounded-xl shadow-md border border-gray-200 p-6 hover:shadow-lg transition-all">
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center">
-                  <Shield className="w-6 h-6 text-green-600" />
-                </div>
+                <img src="/kb-insurance-logo.png" alt="KB Insurance" className="h-10 w-auto object-contain" />
                 <h3 className="font-bold text-gray-900">{t.dashboard.services.insurance.title}</h3>
               </div>
 
@@ -248,6 +246,16 @@ export default function MyDashboard() {
                   {t.dashboard.services.insurance.viewCertificate}
                   <ArrowUpRight className="w-4 h-4" />
                 </button>
+
+                <a
+                  href="https://wa.me/821038035327"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full bg-gradient-to-r from-[#25D366] to-[#128C7E] text-white py-2 px-4 rounded-lg text-sm font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
+                >
+                  <MessageCircle className="w-4 h-4" />
+                  {t.dashboard.services.insurance.careManager}
+                </a>
               </div>
             </div>
 
@@ -338,9 +346,18 @@ export default function MyDashboard() {
           <p className="text-gray-600 mb-3">
             {t.dashboard.footer.help}
           </p>
+          <a 
+            href="https://wa.me/821038035327" 
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-gradient-to-r from-[#25D366] to-[#128C7E] text-white px-5 py-2.5 rounded-lg font-semibold hover:shadow-lg transition-all mb-4"
+          >
+            <MessageCircle className="w-5 h-5" />
+            {t.dashboard.services.insurance.careManager}
+          </a>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a 
-              href="https://wa.me/821012345678" 
+              href="https://wa.me/821038035327" 
               className="inline-flex items-center gap-2 text-[#0056D2] font-semibold hover:text-[#0046B0] transition-colors"
             >
               <MessageCircle className="w-5 h-5" />
