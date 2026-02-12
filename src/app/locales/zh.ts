@@ -9,7 +9,11 @@ export const zh = {
   },
   home: {
     hero: {
-      landingTitle: '安全保障您的韩国整形之旅。',
+      landingTitle: '您的安全，',
+      headline2: '我们的首要任务',
+      stat1Label: '安全旅程',
+      stat2Label: '支持',
+      stat3Label: '最高保障',
       landingSubtitle: '机场接送、24/7翻译、最高$15,000再手术保障。',
       badge1: 'KB保险合作伙伴',
       badge2: '医疗委员会认证',

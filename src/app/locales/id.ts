@@ -9,7 +9,11 @@ export const id = {
   },
   home: {
     hero: {
-      landingTitle: 'Amankan Perjalanan Operasi Plastik Anda ke Korea.',
+      landingTitle: 'Keselamatan Anda,',
+      headline2: 'Prioritas Kami',
+      stat1Label: 'Perjalanan Aman',
+      stat2Label: 'Dukungan',
+      stat3Label: 'Perlindungan Maksimal',
       landingSubtitle: 'Penjemputan Bandara, Penerjemah 24/7, dan Perlindungan Operasi Ulang hingga $15.000.',
       badge1: 'Mitra Asuransi KB',
       badge2: 'Terverifikasi Komite Medis',

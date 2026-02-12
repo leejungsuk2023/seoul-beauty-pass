@@ -3,6 +3,7 @@ import { Shield, CheckCircle, Clock, ArrowRight, ChevronDown, Car, Instagram, He
 import { useState } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 import HowItWorksPreview from '../components/HowItWorksPreview';
+import HeroSection from '../components/HeroSection';
 
 export default function Home() {
   const { t } = useLanguage();
@@ -63,50 +64,7 @@ export default function Home() {
   return (
     <div className="bg-white">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-[#0056D2] to-[#003D99] text-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            {/* Left Content */}
-            <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-                {t.home.hero.landingTitle}
-              </h1>
-              <p className="text-xl mb-8 text-blue-100">
-                {t.home.hero.landingSubtitle}
-              </p>
-              <div className="flex flex-wrap gap-4 items-stretch">
-                <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2.5 border border-white/20 h-12">
-                  <img src="/kb-insurance-logo.png" alt="KB Insurance" className="h-7 w-auto object-contain" />
-                  <span className="font-medium">{t.home.hero.badge1}</span>
-                </div>
-                <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2.5 border border-white/20 h-12">
-                  <CheckCircle className="w-7 h-7 flex-shrink-0" />
-                  <span className="font-medium">{t.home.hero.badge2}</span>
-                </div>
-              </div>
-            </div>
-
-            {/* Right Visual - Split Screen Effect */}
-            <div className="grid grid-cols-2 gap-4">
-              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
-                <Car className="w-12 h-12 mb-4" />
-                <h3 className="font-semibold mb-2">{t.home.hero.airportService}</h3>
-                <p className="text-sm text-blue-100">{t.home.hero.airportServiceDesc}</p>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
-                <Clock className="w-12 h-12 mb-4" />
-                <h3 className="font-semibold mb-2">{t.home.hero.support247}</h3>
-                <p className="text-sm text-blue-100">{t.home.hero.support247Desc}</p>
-              </div>
-              <div className="col-span-2 bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
-                <Shield className="w-12 h-12 mb-4" />
-                <h3 className="font-semibold mb-2">{t.home.hero.resurgery}</h3>
-                <p className="text-sm text-blue-100">{t.home.hero.resurgeryDesc}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <HeroSection />
 
       {/* The Gate - Key Decision Point */}
       <section className="py-20 bg-gray-50">

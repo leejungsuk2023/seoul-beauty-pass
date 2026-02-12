@@ -10,7 +10,11 @@ export const ko = {
   // Home Page
   home: {
     hero: {
-      landingTitle: '한국 성형수술 여행을 안전하게.',
+      landingTitle: '당신의 안전,',
+      headline2: '우리의 최우선',
+      stat1Label: '안전한 여정',
+      stat2Label: '지원',
+      stat3Label: '최대 보장',
       landingSubtitle: '공항 픽업, 24/7 통역, 최대 $15,000 재수술 보장.',
       badge1: 'KB 보험 파트너',
       badge2: '의료 위원회 인증',

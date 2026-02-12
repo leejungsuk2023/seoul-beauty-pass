@@ -10,7 +10,11 @@ export const en = {
   // Home Page
   home: {
     hero: {
-      landingTitle: 'Secure Your Plastic Surgery Trip to Korea.',
+      landingTitle: 'Your Safety,',
+      headline2: 'Our Priority',
+      stat1Label: 'Safe Journeys',
+      stat2Label: 'Support',
+      stat3Label: 'Max Coverage',
       landingSubtitle: 'Airport Pickup, 24/7 Translation, and Re-surgery Protection up to $15,000.',
       badge1: 'KB Insurance Partner',
       badge2: 'Medical Committee Verified',

@@ -9,7 +9,11 @@ export const ja = {
   },
   home: {
     hero: {
-      landingTitle: '韓国での美容整形旅行を安全に。',
+      landingTitle: 'あなたの安全、',
+      headline2: '私たちの最優先',
+      stat1Label: '安全な旅',
+      stat2Label: 'サポート',
+      stat3Label: '最大保証',
       landingSubtitle: '空港送迎、24時間通訳、最大$15,000の再手術保証。',
       badge1: 'KB保険パートナー',
       badge2: '医療委員会認証',

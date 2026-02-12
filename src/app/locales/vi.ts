@@ -8,7 +8,11 @@ export const vi = {
   },
   home: {
     hero: {
-      landingTitle: 'Bảo vệ chuyến phẫu thuật thẩm mỹ tại Hàn Quốc.',
+      landingTitle: 'An toàn của bạn,',
+      headline2: 'Ưu tiên của chúng tôi',
+      stat1Label: 'Hành trình an toàn',
+      stat2Label: 'Hỗ trợ',
+      stat3Label: 'Bảo hiểm tối đa',
       landingSubtitle: 'Đón sân bay, Phiên dịch 24/7, và Bảo hiểm tái phẫu thuật lên đến $15,000.',
       badge1: 'Đối tác Bảo hiểm KB',
       badge2: 'Được Ủy ban Y tế Xác nhận',
