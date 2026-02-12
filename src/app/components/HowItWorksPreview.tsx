@@ -87,38 +87,38 @@ export default function HowItWorksPreview({ mode = 'compact', showLearnMore = tr
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="space-y-8">
           {/* Step 1: Arrival */}
-          <div className="bg-white rounded-2xl shadow-lg p-8 relative">
+          <div className="bg-white rounded-2xl shadow-lg p-6 sm:p-8 relative">
             <div className="absolute -left-4 top-8 w-12 h-12 bg-[#0056D2] rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg">
               1
             </div>
-            <div className="ml-12">
-              <div className="flex items-start gap-6">
-                <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
-                  <Car className="w-8 h-8 text-[#0056D2]" />
+            <div className="ml-10 sm:ml-12">
+              <div className="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+                <div className="w-12 h-12 sm:w-16 sm:h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <Car className="w-6 h-6 sm:w-8 sm:h-8 text-[#0056D2]" />
                 </div>
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-3">{t.howItWorks.page.sectionArrival}</h3>
-                  <p className="text-gray-700 mb-4">
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-3 text-left">{t.howItWorks.page.sectionArrival}</h3>
+                  <p className="text-gray-700 mb-4 text-left">
                     {t.howItWorks.journey.arrival.step1.description}
                   </p>
                   <div className="space-y-3">
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.arrival.step1.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.arrival.step1.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.arrival.step3.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.arrival.step3.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.arrival.step2.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.arrival.step2.description}</p>
                       </div>
@@ -134,38 +134,38 @@ export default function HowItWorksPreview({ mode = 'compact', showLearnMore = tr
           </div>
 
           {/* Step 2: Care */}
-          <div className="bg-white rounded-2xl shadow-lg p-8 relative">
+          <div className="bg-white rounded-2xl shadow-lg p-6 sm:p-8 relative">
             <div className="absolute -left-4 top-8 w-12 h-12 bg-[#0056D2] rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg">
               2
             </div>
-            <div className="ml-12">
-              <div className="flex items-start gap-6">
-                <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
-                  <MessageCircle className="w-8 h-8 text-[#0056D2]" />
+            <div className="ml-10 sm:ml-12">
+              <div className="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+                <div className="w-12 h-12 sm:w-16 sm:h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <MessageCircle className="w-6 h-6 sm:w-8 sm:h-8 text-[#0056D2]" />
                 </div>
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-3">{t.howItWorks.page.sectionCare}</h3>
-                  <p className="text-gray-700 mb-4">
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-3 text-left">{t.howItWorks.page.sectionCare}</h3>
+                  <p className="text-gray-700 mb-4 text-left">
                     {t.howItWorks.journey.recovery.step1.description}
                   </p>
                   <div className="space-y-3">
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <Clock className="w-5 h-5 text-[#FF6B00] flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.emergency.hotline.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.emergency.hotline.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.surgeryDay.step3.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.surgeryDay.step3.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.recovery.step1.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.recovery.step1.description}</p>
                       </div>
@@ -181,38 +181,38 @@ export default function HowItWorksPreview({ mode = 'compact', showLearnMore = tr
           </div>
 
           {/* Step 3: Return */}
-          <div className="bg-white rounded-2xl shadow-lg p-8 relative">
+          <div className="bg-white rounded-2xl shadow-lg p-6 sm:p-8 relative">
             <div className="absolute -left-4 top-8 w-12 h-12 bg-[#0056D2] rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg">
               3
             </div>
-            <div className="ml-12">
-              <div className="flex items-start gap-6">
-                <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
-                  <Plane className="w-8 h-8 text-[#0056D2]" />
+            <div className="ml-10 sm:ml-12">
+              <div className="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+                <div className="w-12 h-12 sm:w-16 sm:h-16 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <Plane className="w-6 h-6 sm:w-8 sm:h-8 text-[#0056D2]" />
                 </div>
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-3">{t.howItWorks.page.sectionReturn}</h3>
-                  <p className="text-gray-700 mb-4">
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-3 text-left">{t.howItWorks.page.sectionReturn}</h3>
+                  <p className="text-gray-700 mb-4 text-left">
                     {t.howItWorks.journey.departure.step2.description}
                   </p>
                   <div className="space-y-3">
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.departure.step2.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.departure.step2.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.departure.step1.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.departure.step1.description}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold text-gray-900">{t.howItWorks.journey.departure.step3.title}</p>
                         <p className="text-sm text-gray-600">{t.howItWorks.journey.departure.step3.description}</p>
                       </div>
@@ -228,38 +228,38 @@ export default function HowItWorksPreview({ mode = 'compact', showLearnMore = tr
           </div>
 
           {/* Step 4: Protection */}
-          <div className="bg-gradient-to-br from-[#0056D2] to-[#003D99] rounded-2xl shadow-lg p-8 relative text-white">
+          <div className="bg-gradient-to-br from-[#0056D2] to-[#003D99] rounded-2xl shadow-lg p-6 sm:p-8 relative text-white">
             <div className="absolute -left-4 top-8 w-12 h-12 bg-[#FF6B00] rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg">
               4
             </div>
-            <div className="ml-12">
-              <div className="flex items-start gap-6">
-                <div className="w-16 h-16 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center flex-shrink-0">
-                  <Shield className="w-8 h-8 text-white" />
+            <div className="ml-10 sm:ml-12">
+              <div className="flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+                <div className="w-12 h-12 sm:w-16 sm:h-16 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center flex-shrink-0">
+                  <Shield className="w-6 h-6 sm:w-8 sm:h-8 text-white" />
                 </div>
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold mb-3">{t.howItWorks.page.sectionProtection}</h3>
-                  <p className="text-blue-100 mb-4">
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-xl sm:text-2xl font-bold mb-3 text-left">{t.howItWorks.page.sectionProtection}</h3>
+                  <p className="text-blue-100 mb-4 text-left">
                     {t.howItWorks.page.sectionProtectionDesc}
                   </p>
                   <div className="space-y-3">
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-[#FF6B00] flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold">{t.howItWorks.emergency.insurance.title}</p>
                         <p className="text-sm text-blue-100">{t.howItWorks.page.safetyCostLine} / {t.howItWorks.page.vipCostLine}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-[#FF6B00] flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold">{t.howItWorks.page.vipFlight}</p>
                         <p className="text-sm text-blue-100">{t.howItWorks.page.vipHotel}</p>
                       </div>
                     </div>
-                    <div className="flex items-start gap-3">
+                    <div className="flex items-start gap-3 text-left">
                       <CheckCircle className="w-5 h-5 text-[#FF6B00] flex-shrink-0 mt-0.5" />
-                      <div>
+                      <div className="min-w-0 flex-1">
                         <p className="font-semibold">{t.howItWorks.page.safetyValid}</p>
                         <p className="text-sm text-blue-100">{t.howItWorks.page.safetyCoverage}</p>
                       </div>

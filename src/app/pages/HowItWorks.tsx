@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router';
 import { Shield, CheckCircle } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
@@ -5,6 +6,10 @@ import HowItWorksPreview from '../components/HowItWorksPreview';
 
 export default function HowItWorks() {
   const { t } = useLanguage();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="bg-white">
       {/* Hero Section */}
