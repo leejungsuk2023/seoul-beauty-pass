@@ -2,6 +2,7 @@ import { Link } from 'react-router';
 import { Shield, CheckCircle, Clock, ArrowRight, ChevronDown, Car, Instagram, Heart, MessageCircle } from 'lucide-react';
 import { useState } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
+import HowItWorksPreview from '../components/HowItWorksPreview';
 
 export default function Home() {
   const { t } = useLanguage();
@@ -193,6 +194,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* How It Works Preview */}
+      <HowItWorksPreview mode="compact" showLearnMore />
 
       {/* Trust Indicators */}
       <section className="py-16 bg-white">
