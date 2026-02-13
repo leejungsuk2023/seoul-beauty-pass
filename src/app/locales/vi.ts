@@ -552,4 +552,16 @@ export const vi = {
     error: 'Đã xảy ra lỗi',
     success: 'Thành công!',
   },
+
+  consultation: {
+    needHelp: 'Cần trợ giúp?',
+    chatInstantly: 'Chat với chúng tôi ngay',
+    whatsApp: 'WhatsApp',
+    chatNow: 'Chat ngay',
+    instagram: 'Instagram',
+    sendMessage: 'Gửi tin nhắn',
+    responseTime: 'Thời gian phản hồi trung bình:',
+    responseMinutes: '2 phút',
+    openLabel: 'Mở chat tư vấn',
+  },
 };

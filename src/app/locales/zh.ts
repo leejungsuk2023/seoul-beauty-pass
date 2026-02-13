@@ -553,4 +553,16 @@ export const zh = {
     error: '发生错误',
     success: '成功！',
   },
+
+  consultation: {
+    needHelp: '需要帮助？',
+    chatInstantly: '立即与我们聊天',
+    whatsApp: 'WhatsApp',
+    chatNow: '立即聊天',
+    instagram: 'Instagram',
+    sendMessage: '发送消息',
+    responseTime: '平均回复时间：',
+    responseMinutes: '2分钟',
+    openLabel: '打开咨询聊天',
+  },
 };

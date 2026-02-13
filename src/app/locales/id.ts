@@ -553,4 +553,16 @@ export const id = {
     error: 'Terjadi kesalahan',
     success: 'Berhasil!',
   },
+
+  consultation: {
+    needHelp: 'Butuh Bantuan?',
+    chatInstantly: 'Chat dengan kami secara instan',
+    whatsApp: 'WhatsApp',
+    chatNow: 'Chat sekarang',
+    instagram: 'Instagram',
+    sendMessage: 'Kirim pesan',
+    responseTime: 'Waktu respons rata-rata:',
+    responseMinutes: '2 menit',
+    openLabel: 'Buka chat konsultasi',
+  },
 };

@@ -550,5 +550,17 @@ export const th = {
     loading: 'กำลังโหลด...',
     error: 'เกิดข้อผิดพลาด',
     success: 'สำเร็จ!'
-  }
+  },
+
+  consultation: {
+    needHelp: 'ต้องการความช่วยเหลือ?',
+    chatInstantly: 'แชทกับเราทันที',
+    whatsApp: 'WhatsApp',
+    chatNow: 'แชทเลย',
+    instagram: 'Instagram',
+    sendMessage: 'ส่งข้อความ',
+    responseTime: 'เวลาตอบกลับเฉลี่ย:',
+    responseMinutes: '2 นาที',
+    openLabel: 'เปิดแชทปรึกษา',
+  },
 };

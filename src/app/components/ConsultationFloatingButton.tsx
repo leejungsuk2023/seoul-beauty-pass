@@ -1,8 +1,12 @@
+import React, { useState } from 'react';
 import { MessageCircle, X } from 'lucide-react';
-import { useState } from 'react';
+import { useLanguage } from '../contexts/LanguageContext';
+
+const WHATSAPP_NUMBER = '821038035327';
 
 export function ConsultationFloatingButton() {
   const [isOpen, setIsOpen] = useState(false);
+  const { t } = useLanguage();
 
   return (
     <>
@@ -16,22 +20,22 @@ export function ConsultationFloatingButton() {
               <button
                 onClick={() => setIsOpen(false)}
                 className="absolute top-2 right-2 w-6 h-6 flex items-center justify-center text-gray-400 hover:text-white transition-colors"
-                aria-label="Close"
+                aria-label={t('common.close')}
               >
                 <X className="w-4 h-4" />
               </button>
 
               {/* Header */}
               <div className="mb-4">
-                <h3 className="text-white font-bold text-lg mb-1">Need Help?</h3>
-                <p className="text-gray-400 text-sm">Chat with us instantly</p>
+                <h3 className="text-white font-bold text-lg mb-1">{t('consultation.needHelp')}</h3>
+                <p className="text-gray-400 text-sm">{t('consultation.chatInstantly')}</p>
               </div>
 
               {/* Contact Buttons */}
               <div className="space-y-3">
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/821012345678"
+                  href={`https://wa.me/${WHATSAPP_NUMBER}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 bg-gradient-to-r from-[#25D366] to-[#128C7E] text-white px-4 py-3 rounded-lg hover:from-[#20BA5A] hover:to-[#0F7A6A] transition-all group shadow-lg"
@@ -42,8 +46,8 @@ export function ConsultationFloatingButton() {
                     </svg>
                   </div>
                   <div className="flex-1 text-left">
-                    <div className="font-bold text-sm">WhatsApp</div>
-                    <div className="text-xs opacity-90">Chat now</div>
+                    <div className="font-bold text-sm">{t('consultation.whatsApp')}</div>
+                    <div className="text-xs opacity-90">{t('consultation.chatNow')}</div>
                   </div>
                   <div className="opacity-0 group-hover:opacity-100 transition-opacity">→</div>
                 </a>
@@ -61,8 +65,8 @@ export function ConsultationFloatingButton() {
                     </svg>
                   </div>
                   <div className="flex-1 text-left">
-                    <div className="font-bold text-sm">Instagram</div>
-                    <div className="text-xs opacity-80">Send message</div>
+                    <div className="font-bold text-sm">{t('consultation.instagram')}</div>
+                    <div className="text-xs opacity-80">{t('consultation.sendMessage')}</div>
                   </div>
                   <div className="opacity-0 group-hover:opacity-100 transition-opacity">→</div>
                 </a>
@@ -71,7 +75,7 @@ export function ConsultationFloatingButton() {
               {/* Response Time */}
               <div className="mt-4 pt-4 border-t border-[#D4AF37]/20">
                 <p className="text-xs text-center text-gray-400">
-                  ⚡ Average response time: <span className="text-[#F4D03F] font-semibold">2 minutes</span>
+                  ⚡ {t('consultation.responseTime')} <span className="text-[#F4D03F] font-semibold">{t('consultation.responseMinutes')}</span>
                 </p>
               </div>
             </div>
@@ -80,7 +84,7 @@ export function ConsultationFloatingButton() {
           <button
             onClick={() => setIsOpen(true)}
             className="bg-gradient-to-br from-[#D4AF37] to-[#F4D03F] text-black p-4 rounded-full shadow-2xl hover:scale-110 transition-transform group relative"
-            aria-label="Open consultation chat"
+            aria-label={t('consultation.openLabel')}
           >
             <MessageCircle className="w-6 h-6" />
             {/* Pulse Animation */}

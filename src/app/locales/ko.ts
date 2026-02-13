@@ -552,6 +552,19 @@ export const ko = {
     medical: 'Seoul Beauty Pass는 의료 서비스 제공자가 아니며 여행 지원 서비스를 제공합니다.',
   },
 
+  // Consultation Floating Button
+  consultation: {
+    needHelp: '도움이 필요하신가요?',
+    chatInstantly: '즉시 채팅하세요',
+    whatsApp: 'WhatsApp',
+    chatNow: '채팅하기',
+    instagram: 'Instagram',
+    sendMessage: '메시지 보내기',
+    responseTime: '평균 응답 시간:',
+    responseMinutes: '2분',
+    openLabel: '상담 채팅 열기',
+  },
+
   // Common
   common: {
     learnMore: '자세히 보기',

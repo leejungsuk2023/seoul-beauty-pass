@@ -553,4 +553,16 @@ export const ja = {
     error: 'エラーが発生しました',
     success: '成功！',
   },
+
+  consultation: {
+    needHelp: 'お困りですか？',
+    chatInstantly: 'すぐにチャットでお問い合わせ',
+    whatsApp: 'WhatsApp',
+    chatNow: '今すぐチャット',
+    instagram: 'Instagram',
+    sendMessage: 'メッセージを送る',
+    responseTime: '平均応答時間：',
+    responseMinutes: '2分',
+    openLabel: '相談チャットを開く',
+  },
 };

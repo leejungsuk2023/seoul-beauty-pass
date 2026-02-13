@@ -553,4 +553,16 @@ export const mn = {
     error: 'Алдаа гарлаа',
     success: 'Амжилттай!',
   },
+
+  consultation: {
+    needHelp: 'Тусламж хэрэгтэй юу?',
+    chatInstantly: 'Бидэнтэй шууд чатлах',
+    whatsApp: 'WhatsApp',
+    chatNow: 'Яг одоо чатлах',
+    instagram: 'Instagram',
+    sendMessage: 'Мессеж илгээх',
+    responseTime: 'Дундаж хариулах хугацаа:',
+    responseMinutes: '2 минут',
+    openLabel: 'Зөвлөлдөх чат нээх',
+  },
 };

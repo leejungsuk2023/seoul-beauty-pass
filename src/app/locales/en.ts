@@ -552,6 +552,19 @@ export const en = {
     medical: 'Seoul Beauty Pass is not a medical provider and offers travel assistance services.',
   },
 
+  // Consultation Floating Button
+  consultation: {
+    needHelp: 'Need Help?',
+    chatInstantly: 'Chat with us instantly',
+    whatsApp: 'WhatsApp',
+    chatNow: 'Chat now',
+    instagram: 'Instagram',
+    sendMessage: 'Send message',
+    responseTime: 'Average response time:',
+    responseMinutes: '2 minutes',
+    openLabel: 'Open consultation chat',
+  },
+
   // Common
   common: {
     learnMore: 'Learn More',

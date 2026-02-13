@@ -1,3 +1,4 @@
+import React from 'react';
 import { Link } from 'react-router';
 import { Car, MessageCircle, Plane, Shield, ArrowRight, Clock, CheckCircle } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
